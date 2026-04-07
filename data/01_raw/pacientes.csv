@@ -1,0 +1,413 @@
+id_paciente,nombre,rut,fecha_nacimiento,genero,prevision,comuna,telefono
+1.0,Natalia García Pérez,5270111-3,01/01/1940,Femenino,Particular,Talca,+56992777798
+2.0,Emilio Bravo González,10391529-5,1940-03-05,Masculino,Fonasa B,Chillán,+56978079231
+3.0,Martín García Pérez,5370917-1,,Femenino,Fonasa D,Coquimbo,
+4.0,Martín Rodríguez Rojas,,1940-07-13,Masculino,  Fonasa A  ,Talca,+56985900715
+5.0,Nicolás Flores Rojas,17733334-5,1940-09-16,Femenino,Fonasa C,Talcahuano,
+6.0,Natalia Núñez Torres,13559865-2,20/11/1940,FEMENINO,fonasa d,Ovalle,+56956094205
+7.0,Daniela Aguilera Torres,18125252-2,24/01/1941,Femenino,Fonasa B,Castro,+56953775151
+8.0,Cristóbal Hernández Pérez,14592174-1,30/03/1941,Femenino,Fonasa A,Puente Alto,+56939999769
+,Felipe Medina Valenzuela,20414184-8,03/06/1941,Masculino,Fonasa A,Rengo,+56990845239
+10.0,Marcela Silva Araya,13548701-2,1941-08-07,Masculino,Fonasa B,Ovalle,+56946618450
+11.0,Joaquín Reyes Contreras,24532469-0,1941-10-11,  Femenino  ,fonasa a,Osorno,+56968405557
+12.0,Vicente Castro Contreras,11266966-9,15/12/1941,Masculino,Particular,Curicó,+56994325586
+13.0,Sofía Fuentes Torres,10014764-3,1942-02-18,Femenino,Fonasa B,Villarrica,+56995424475
+14.0,Tomás Díaz Torres,12426346-4,24/04/1942,  Femenino  ,Particular,Valparaíso,+56911212316
+15.0,Ignacio Bravo García,16107522-1,28/06/1942,Femenino,,Osorno,+56969637989
+,Sebastián Rodríguez Jara,7340220-0,1942-09-01,Femenino,Isapre,Villarrica,+56949978296
+17.0,Amanda Rodríguez Fuentes,6072006-9,05/11/1942,FEMENINO,fonasa c,Las Condes,+56928321214
+18.0,Maximiliano Reyes Silva,6336601-6,09/01/1943,Femenino,  Fonasa D  ,Rancagua,+56987756567
+19.0,,6556752-5,15/03/1943,Masculino,Particular,Talca,+56991581531
+20.0,,13196854-0,1943-05-19,Femenino,  Fonasa C  ,Concepción,+56913016518
+21.0,Amanda Martínez Muñoz,23153412-8,1943-07-23,Femenino,  Fonasa C  ,,+56969733842
+22.0,Javiera Medina Díaz,18891687-8,26/09/1943,Masculino,,Quilpué,+56945986064
+23.0,,13498561-3,30/11/1943,Femenino,Particular,La Florida,+56994208414
+24.0,Diego Soto Araya,5467899-2,03/02/1944,Femenino,  Fonasa B  ,Coquimbo,+56973777515
+25.0,Ana Morales Muñoz,8914066-1,,FEMENINO,Isapre,Angol,+56929155471
+26.0,Cristóbal Gatica Contreras,17885777-6,12/06/1944,Masculino,PARTICULAR,Coquimbo,+56992858314
+27.0,Lucas Soto García,19900577-3,16/08/1944,Femenino,Fonasa C,La Serena,+56965298473
+28.0,Francisca Flores Flores,9566123-9,20/10/1944,Masculino,Fonasa C,Santiago,+56966780992
+29.0,Natalia Valenzuela Sepúlveda,5217943-4,24/12/1944,Femenino,Fonasa D,Chillán,+56989224116
+30.0,Camila Soto Valenzuela,16224351-7,1945-02-27,Masculino,Isapre,Coquimbo,+56950871016
+31.0,José Flores Reyes,16209965-9,03/05/1945,femenino,Isapre,Angol,+56918446205
+32.0,Santiago Flores Muñoz,23672489-8,07/07/1945,,  Fonasa C  ,Osorno,+56968770286
+33.0,Pedro Espinoza Gatica,20138001-5,1945-09-10,Masculino,Isapre,Osorno,+56987053633
+34.0,Isidora Martínez Morales,23978173-2,14/11/1945,Masculino,Fonasa D,Ovalle,
+35.0,Camila Valenzuela Rivera,7943624-2,18/01/1946,Masculino,,Coquimbo,+56963198173
+36.0,Bárbara Flores Hernández,24911840-9,24/03/1946,Femenino,,San Antonio,+56975019257
+37.0,Emilio Valenzuela Flores,19210225-4,28/05/1946,  Femenino  ,Fonasa A,Cauquenes,+56912898255
+,Francisca Valenzuela González,10619934-6,01/08/1946,Masculino,FONASA C,San Fernando,+56985488864
+39.0,Lucas Rodríguez Díaz,6557805-3,,Masculino,Fonasa C,La Florida,+56910516367
+40.0,José Gatica Rojas,13062102-6,1946-12-09,Masculino,Fonasa B,Rancagua,+56984255393
+41.0,Vicente Zambrano Jara,11012314-0,1947-02-12,Femenino,Particular,Puente Alto,+56989898336
+42.0,Ignacio Soto Rodríguez,9746787-7,1947-04-18,Masculino,Particular,Linares,+56971375663
+43.0,Felipe Castro Soto,,22/06/1947,Masculino,,Rengo,+56951203973
+44.0,Isidora Espinoza Soto,22470475-2,26/08/1947,MASCULINO,Fonasa A,Cauquenes,+56976844525
+45.0,Lorena Soto Morales,7608443-4,30/10/1947,Masculino,Fonasa A,Talca,+56944213454
+46.0,Maximiliano Torres Bravo,,03/01/1948,masculino,  Particular  ,Osorno,+56985047838
+47.0,Matías Tapia Flores,5827590-9,08/03/1948,Masculino,fonasa b,Castro,+56957237034
+48.0,Sofía Medina Espinoza,9230621-0,1948-05-12,Femenino,Isapre,Chillán,+56992920642
+49.0,Natalia Zambrano Díaz,19928959-1,1948-07-16,Femenino,  Fonasa A  ,La Serena,
+50.0,Fernanda Rojas Rivera,8047886-5,1948-09-19,Masculino,Isapre,Quilpué,+56948148252
+51.0,Sebastián Silva Gatica,10439262-3,23/11/1948,Femenino,Fonasa D,Chillán,+56964442482
+52.0,Valentina Tapia Silva,23479458-0,27/01/1949,Masculino,Fonasa B,Linares,+56947017197
+53.0,Gabriel Tapia Rojas,11071088-3,1949-04-02,  Femenino  ,  Isapre  ,,+56920102295
+54.0,Alejandra García Rodríguez,19477028-2,1949-06-06,Masculino,Particular,Rengo,+56978324734
+55.0,Alejandra Reyes Hernández,8321038-9,,Femenino,,Ovalle,+56935976666
+56.0,Antonia Castro Rivera,10735015-1,1949-10-14,,Fonasa A,,+56991639621
+57.0,Diego Medina Espinoza,16830341-8,18/12/1949,Masculino,Fonasa A,San Fernando,+56977654908
+58.0,,9177289-8,21/02/1950,Femenino,Isapre,Viña del Mar,+56950569855
+59.0,Agustín Araya Reyes,24221680-7,1950-04-27,Femenino,Particular,Chillán,+56925105475
+60.0,Paula Castro Castro,5143476-5,1950-07-01,Femenino,Isapre,Castro,+56965157243
+61.0,Lucas García Gatica,23976487-1,04/09/1950,Masculino,Fonasa D,Cauquenes,+56972014406
+62.0,Paula Tapia Muñoz,19553726-1,08/11/1950,,Fonasa B,Villarrica,
+63.0,Fernanda Valenzuela Flores,8760262-8,12/01/1951,femenino,PARTICULAR,Quilpué,+56948785602
+64.0,Isidora Sepúlveda Pérez,19647532-3,1951-03-18,MASCULINO,  Fonasa C  ,Angol,+56971516755
+,Benjamín González Sepúlveda,22969423-5,22/05/1951,Femenino,,Osorno,+56979657329
+66.0,,16150666-8,1951-07-26,Masculino,FONASA D,Pucón,
+67.0,Joaquín Sepúlveda Morales,23475107-1,1951-09-29,Femenino,particular,Puerto Montt,+56956085359
+68.0,Gabriel García Araya,24748167-5,03/12/1951,Femenino,Fonasa D,Angol,+56937683464
+69.0,Fernanda Martínez González,24091634-7,1952-02-06,Masculino,particular,,+56963508312
+70.0,Maximiliano Hernández Bravo,20785520-2,1952-04-11,Femenino,Fonasa D,Linares,+56988050960
+71.0,Lucas Espinoza Flores,8160705-6,1952-06-15,masculino,Fonasa A,Temuco,+56981999061
+72.0,Sebastián Rojas Tapia,23656699-8,1952-08-19,  Masculino  ,,Temuco,+56981567304
+73.0,Andrés Gatica Espinoza,6491731-0,,,Particular,Castro,+56924336847
+74.0,Ignacio Sepúlveda Aguilera,16397412-3,1952-12-27,MASCULINO,Fonasa B,Curicó,+56961112881
+75.0,Benjamín Pérez Tapia,21064191-8,1953-03-02,Masculino,Fonasa A,Angol,+56949321404
+76.0,José Pérez Soto,12245986-1,06/05/1953,Femenino,Fonasa D,Coquimbo,+56988420719
+77.0,Isidora Pérez Fuentes,23370678-6,10/07/1953,Masculino,Fonasa B,Linares,+56981632564
+78.0,Camila García Rivera,,1953-09-13,Masculino,Fonasa A,Osorno,+56913751973
+79.0,Santiago Morales Fuentes,24524802-7,17/11/1953,Masculino,  Fonasa C  ,Las Condes,+56945597373
+80.0,Vicente Contreras Hernández,10784054-8,21/01/1954,Masculino,Particular,Talcahuano,
+81.0,Javiera Zambrano Araya,14264746-5,27/03/1954,Femenino,Particular,Talca,+56952417781
+82.0,María Vergara Rodríguez,15435151-0,1954-05-31,masculino,Fonasa D,,+56911325577
+83.0,Catalina Rojas Gatica,8220369-8,1954-08-04,Femenino,Fonasa A,Puerto Montt,+56991192063
+84.0,Martín Flores Contreras,9633937-2,1954-10-08,Masculino,Fonasa A,Ovalle,+56932369436
+85.0,Daniela Vergara Muñoz,20997815-2,1954-12-12,Femenino,,Linares,+56998970427
+86.0,Matías Figueroa Bravo,5040908-0,1955-02-15,masculino,FONASA C,Viña del Mar,+56995900652
+87.0,Isidora Torres Sepúlveda,10960349-8,21/04/1955,Masculino,Particular,Concepción,+56979091214
+88.0,Nicolás Silva Contreras,12172308-9,25/06/1955,FEMENINO,  Isapre  ,Las Condes,+56962948689
+89.0,Amanda Jara Rojas,14883308-8,29/08/1955,Masculino,Fonasa C,La Serena,+56911330468
+90.0,Felipe Reyes Bravo,9276875-3,02/11/1955,Femenino,Fonasa D,Maipú,+56953844504
+91.0,José Araya Espinoza,9538917-2,06/01/1956,Femenino,Isapre,San Antonio,+56932937991
+92.0,Pedro Zambrano Zambrano,6985066-4,1956-03-11,Masculino,Fonasa A,Puente Alto,+56925873604
+93.0,Pedro Aguilera Martínez,7975624-4,15/05/1956,Femenino,Fonasa C,San Fernando,+56914214307
+94.0,Nicolás Rojas González,14353117-7,19/07/1956,No binario,  Fonasa C  ,Rancagua,+56932015250
+95.0,Daniela Medina Sepúlveda,14353671-3,22/09/1956,Femenino,Particular,Pucón,+56963481951
+96.0,Diego Bravo Soto,9418417-8,26/11/1956,Femenino,PARTICULAR,San Fernando,+56928728874
+97.0,Benjamín Bravo Araya,8681130-1,30/01/1957,Masculino,Isapre,Ovalle,+56971563112
+,Bárbara Contreras Hernández,19141856-5,05/04/1957,Femenino,Fonasa A,Talcahuano,+56915245835
+99.0,Martín Rodríguez Espinoza,24370112-9,09/06/1957,Femenino,Fonasa C,Maipú,+56963245195
+100.0,Cristóbal Castro Gatica,11586167-0,1957-08-13,,Isapre,Santiago,+56963715916
+,Lucas Tapia García,9245742-0,17/10/1957,No binario,Fonasa C,Angol,
+,Natalia Espinoza Valenzuela,9280897-0,1957-12-21,masculino,Particular,Osorno,+56984205887
+103.0,Isidora Flores Castro,11974545-0,24/02/1958,Femenino,  Fonasa A  ,Puerto Montt,+56990776162
+104.0,Emilio Núñez Soto,14294517-2,30/04/1958,Masculino,Fonasa A,Talcahuano,+56918215004
+105.0,Martín Vergara Gatica,,1958-07-04,Masculino,  Fonasa B  ,Santiago,+56912426412
+106.0,Martín Díaz Silva,9381688-7,1958-09-07,  Femenino  ,isapre,Los Ángeles,+56983063326
+107.0,Camila Martínez Rodríguez,21711013-5,1958-11-11,Masculino,Particular,Viña del Mar,+56934043964
+108.0,Ana Zambrano Figueroa,9267859-1,1959-01-15,MASCULINO,Particular,Viña del Mar,+56946313891
+109.0,Catalina Castro Rojas,13177190-5,1959-03-21,Masculino,Particular,Coquimbo,+56981758338
+110.0,Gabriel Silva Pérez,11508328-0,25/05/1959,Femenino,Fonasa D,Osorno,+56943911809
+111.0,Ignacio Soto Tapia,9383644-8,29/07/1959,No binario,Fonasa C,Puerto Montt,+56958126351
+112.0,Marcela Díaz Hernández,8138582-6,1959-10-02,  Masculino  ,  Fonasa A  ,Rengo,+56979804420
+113.0,Agustín Espinoza Fuentes,16256342-0,1959-12-06,Masculino,,Rengo,+56924008928
+114.0,Vicente Jara García,18661955-4,09/02/1960,Masculino,Fonasa C,La Serena,+56939721110
+115.0,Vicente Martínez Contreras,18283289-3,1960-04-14,Femenino,Fonasa D,Puerto Montt,+56910073117
+116.0,Maximiliano Gatica Jara,5096832-0,18/06/1960,MASCULINO,Fonasa A,Talca,+56984662900
+117.0,Francisca Díaz Castro,16557298-9,1960-08-22,Masculino,Fonasa B,Angol,+56982427103
+118.0,Alejandra González Díaz,12744668-7,1960-10-26,  Masculino  ,  Particular  ,Villarrica,+56986924796
+119.0,José Núñez Martínez,20331625-7,1960-12-30,Femenino,ISAPRE,Angol,+56984563921
+120.0,Isidora Aguilera Gatica,16940644-6,1961-03-05,Femenino,Fonasa C,Osorno,+56935495179
+121.0,Constanza Díaz Reyes,24614652-1,09/05/1961,Femenino,Fonasa D,Talca,+56999352149
+122.0,Joaquín Castro Bravo,23027758-3,13/07/1961,Masculino,Fonasa D,Viña del Mar,+56915522926
+123.0,Carolina Tapia Tapia,9429828-1,,Femenino,Isapre,Rancagua,+56954275746
+124.0,,5768992-2,1961-11-20,femenino,Isapre,Linares,+56974755706
+,Martín Tapia Gatica,8008451-6,24/01/1962,Masculino,Fonasa A,,+56950952683
+126.0,Matías González Núñez,7483951-7,30/03/1962,  Masculino  ,Fonasa C,Puerto Montt,+56999490648
+127.0,Martín Tapia Figueroa,15017272-6,03/06/1962,Masculino,,Concepción,+56982592611
+128.0,Alejandra Valenzuela Vergara,6371592-2,07/08/1962,Femenino,Isapre,Curicó,+56983962723
+129.0,Lucas Muñoz Valenzuela,24530031-8,11/10/1962,Femenino,Particular,Pucón,+56941804392
+130.0,Isidora Jara Hernández,12320562-1,15/12/1962,Femenino,Fonasa B,,+56993061227
+131.0,Felipe Flores Muñoz,5978837-4,1963-02-18,Masculino,,Pucón,+56989860137
+132.0,Amanda Martínez García,13319535-8,1963-04-24,Masculino,Fonasa D,Talca,+56973582537
+133.0,Francisca Gatica Espinoza,14257859-1,28/06/1963,No binario,Particular,La Florida,+56945153165
+134.0,Joaquín Martínez Rodríguez,17988899-6,01/09/1963,  Masculino  ,Isapre,Cauquenes,+56924225241
+135.0,Vicente Vergara Reyes,10442608-2,1963-11-04,Femenino,Fonasa C,Castro,+56984266992
+136.0,Ana Contreras Espinoza,24041774-1,1964-01-08,Femenino,  Fonasa A  ,Castro,+56956658509
+137.0,Cristóbal Vergara Rivera,11812356-1,1964-03-13,MASCULINO,isapre,Santiago,+56965833774
+138.0,Sebastián Díaz González,19086135-7,1964-05-17,masculino,fonasa d,Rengo,+56941750868
+139.0,Marcela Tapia Morales,5469497-8,1964-07-21,Femenino,  Fonasa A  ,Los Ángeles,+56911955403
+140.0,Constanza Silva Rodríguez,6874923-5,1964-09-24,Masculino,Isapre,Castro,+56930049084
+141.0,Sofía Reyes Rodríguez,18618495-8,,Femenino,Isapre,Maipú,+56970005818
+142.0,Benjamín Tapia Zambrano,17367304-6,1965-02-01,Masculino,Fonasa C,San Antonio,+56959735453
+143.0,Santiago Zambrano Núñez,18195489-7,07/04/1965,Femenino,Fonasa A,Coquimbo,+56911707969
+144.0,Daniela Martínez Jara,6361617-6,11/06/1965,Femenino,Isapre,San Antonio,+56916340888
+145.0,Paula Pérez Castro,,1965-08-15,Femenino,PARTICULAR,Villarrica,+56910084808
+146.0,José Contreras Soto,10132877-1,,Femenino,Fonasa D,La Florida,+56938568789
+147.0,Constanza Bravo Contreras,24137030-8,23/12/1965,,Fonasa A,Linares,+56916163850
+148.0,Valentina Figueroa Flores,18210929-5,,Masculino,Particular,Maipú,+56956293495
+149.0,Nicolás Aguilera Castro,17135648-0,1966-05-02,masculino,Fonasa C,Linares,+56962395558
+150.0,Ana González González,15173592-9,06/07/1966,Masculino,Fonasa B,Maipú,+56964129615
+151.0,Diego Zambrano Aguilera,14628099-4,1966-09-09,Masculino,Isapre,Los Ángeles,+56923666386
+152.0,Daniela Zambrano Torres,15083210-0,13/11/1966,,Fonasa B,Osorno,+56989480231
+153.0,Carolina Martínez López,19796674-6,17/01/1967,MASCULINO,Isapre,Rancagua,+56990052851
+154.0,Valentina Rodríguez Rivera,18137105-3,1967-03-23,  No binario  ,Particular,,+56957766876
+155.0,Benjamín González Bravo,15273345-9,1967-05-27,Femenino,Fonasa C,Talcahuano,+56996577053
+156.0,Benjamín Martínez Araya,11327175-3,1967-07-31,Masculino,Fonasa C,Curicó,+56937287237
+157.0,Nicolás Morales Tapia,24043914-6,04/10/1967,No binario,Fonasa C,Talcahuano,+56912320274
+158.0,Pedro Sepúlveda Silva,16535675-0,1967-12-08,Masculino,Fonasa C,Maipú,+56957974300
+159.0,Matías Díaz Fuentes,15143533-9,11/02/1968,Masculino,Fonasa A,Maipú,+56961996292
+160.0,Bárbara Gatica Hernández,17647632-2,1968-04-16,Femenino,Fonasa A,San Fernando,+56949296782
+161.0,Ignacio Vergara Hernández,20220805-3,1968-06-20,  Masculino  ,Isapre,Viña del Mar,+56923031387
+162.0,Amanda Rivera Castro,9344485-2,1968-08-24,FEMENINO,Fonasa A,Talca,+56984887875
+163.0,Lucas Díaz Medina,17929876-2,28/10/1968,Masculino,  Isapre  ,Talca,+56945038777
+164.0,Carolina Rivera Morales,19557250-1,1969-01-01,Masculino,Fonasa A,Curicó,+56985877745
+165.0,Francisca Gatica Flores,7968213-4,07/03/1969,Masculino,FONASA A,Pucón,+56935713686
+166.0,Constanza Núñez Martínez,9927738-4,11/05/1969,Femenino,Fonasa A,Coquimbo,+56968824263
+167.0,Camila Hernández Flores,12262593-6,15/07/1969,Femenino,Fonasa D,Valparaíso,+56982660418
+168.0,Martín Gatica Figueroa,9611903-5,18/09/1969,Femenino,  Fonasa C  ,Osorno,+56999250285
+169.0,Fernanda Díaz Rojas,23616175-5,1969-11-22,Femenino,Fonasa D,Rancagua,+56949485474
+170.0,Marcela Tapia Gatica,13944103-2,,  Masculino  ,  Fonasa A  ,Coquimbo,+56967981146
+171.0,Isidora Figueroa Reyes,8402817-8,01/04/1970,Femenino,Fonasa A,Chillán,+56970240339
+,Lorena Medina Vergara,22221413-0,1970-06-05,Masculino,fonasa d,San Fernando,
+173.0,Sofía López Pérez,22911387-7,1970-08-09,MASCULINO,Particular,Talca,+56916950641
+174.0,Camila Martínez López,24935310-9,1970-10-13,Femenino,Isapre,Los Ángeles,+56977465025
+175.0,Sofía Valenzuela Reyes,8291223-9,1970-12-17,Masculino,Fonasa C,Rancagua,+56974404694
+176.0,Lucas Torres Soto,18675575-2,20/02/1971,MASCULINO,ISAPRE,Santiago,+56912618007
+177.0,Benjamín Valenzuela Espinoza,13056488-4,26/04/1971,Femenino,Particular,Talcahuano,+56997728424
+178.0,Javiera García Reyes,7839892-9,1971-06-30,Femenino,  Fonasa C  ,Pucón,+56925879991
+179.0,Lorena Morales Torres,24156011-6,,femenino,  Fonasa B  ,,
+180.0,Matías Muñoz López,13847287-3,1971-11-07,Masculino,  Fonasa C  ,,+56973364738
+,Carolina Castro Morales,11744883-8,11/01/1972,MASCULINO,Isapre,Villarrica,+56931742665
+182.0,Pedro Zambrano Rivera,16369431-3,1972-03-16,Femenino,Fonasa C,Maipú,+56965625918
+183.0,María Díaz Pérez,9495552-4,,femenino,Fonasa B,Pucón,+56996266975
+184.0,Agustín Castro García,20466346-2,1972-07-24,Femenino,Fonasa B,Valparaíso,
+185.0,Carlos Gatica Vergara,17268617-0,27/09/1972,No binario,Fonasa A,San Antonio,+56914191620
+186.0,Cristóbal López Rojas,17236311-8,01/12/1972,,Fonasa B,Talcahuano,+56925166412
+187.0,Joaquín Hernández Jara,12913820-3,1973-02-04,Masculino,Fonasa D,,+56994694525
+188.0,Lucas Flores Sepúlveda,13238370-4,10/04/1973,Femenino,Isapre,La Florida,+56937386444
+189.0,Fernanda Hernández Vergara,11788292-0,1973-06-14,  Femenino  ,Fonasa D,Puente Alto,+56967408518
+190.0,Sebastián Núñez González,13082780-1,1973-08-18,Femenino,Particular,Osorno,+56959977478
+191.0,Carlos Contreras Flores,7640249-5,1973-10-22,masculino,Fonasa D,Ovalle,+56926492036
+192.0,Pedro Espinoza Valenzuela,22750361-7,,Femenino,  Isapre  ,San Antonio,+56916389494
+193.0,Ignacio Flores Reyes,18611952-0,1974-03-01,Femenino,Particular,Coquimbo,+56940994389
+194.0,Maximiliano Pérez Tapia,17544728-4,1974-05-05,Femenino,Fonasa D,Pucón,+56946424452
+195.0,Gabriel Rodríguez Bravo,17408258-7,1974-07-09,Femenino,Fonasa D,Viña del Mar,+56949678304
+196.0,Nicolás Gatica Figueroa,18099794-9,1974-09-12,,PARTICULAR,Temuco,+56950670131
+197.0,Nicolás Gatica Tapia,14011478-7,16/11/1974,Masculino,Fonasa D,Osorno,+56943831592
+198.0,Ana Fuentes Figueroa,16100650-7,20/01/1975,MASCULINO,,Cauquenes,
+199.0,Pedro Zambrano Fuentes,18467964-9,26/03/1975,Masculino,isapre,,+56990725652
+200.0,Benjamín Contreras González,14001015-5,1975-05-30,Femenino,Isapre,Los Ángeles,+56989900619
+201.0,Lorena Jara García,11689691-5,1975-08-03,Masculino,Isapre,Viña del Mar,+56915807045
+202.0,Lorena Silva Sepúlveda,13050686-6,07/10/1975,Femenino,Fonasa D,Los Ángeles,+56962800537
+203.0,Lucas Medina Flores,17439259-9,1975-12-11,Masculino,Fonasa B,Las Condes,+56974954396
+204.0,Maximiliano Gatica Castro,,14/02/1976,  Masculino  ,Isapre,San Fernando,+56946810385
+205.0,Paula Tapia Aguilera,18187813-6,19/04/1976,Masculino,Fonasa C,Castro,+56999290377
+206.0,Maximiliano Sepúlveda Díaz,24953050-8,23/06/1976,Femenino,Isapre,Angol,+56956029177
+207.0,Isidora Jara Zambrano,17828119-1,27/08/1976,Masculino,Fonasa A,Talcahuano,
+208.0,Natalia Martínez Zambrano,19458873-3,,Masculino,Fonasa C,La Serena,+56984977524
+209.0,Diego Bravo Valenzuela,14407226-2,1977-01-04,,Isapre,Cauquenes,+56963803762
+210.0,Marcela Martínez Gatica,7653439-2,10/03/1977,NO BINARIO,  Fonasa D  ,Viña del Mar,+56960227662
+211.0,Joaquín Hernández Rojas,16517812-4,1977-05-14,Femenino,Isapre,Viña del Mar,+56932123737
+212.0,Valentina Castro Gatica,17413096-0,1977-07-18,Masculino,Fonasa B,Valparaíso,+56950383896
+213.0,Constanza Bravo Martínez,22967942-0,1977-09-21,Masculino,Fonasa B,Santiago,+56915183403
+214.0,Javiera Hernández Valenzuela,24216171-5,25/11/1977,No binario,Isapre,Ovalle,+56960711458
+,Matías Aguilera García,15279383-8,29/01/1978,Femenino,Fonasa D,Maipú,+56929027158
+,Catalina Contreras Sepúlveda,7937299-5,04/04/1978,Femenino,Fonasa D,Rengo,+56926917610
+217.0,Camila Torres Muñoz,11219809-6,1978-06-08,Masculino,,Castro,+56925680543
+218.0,Daniela Morales Fuentes,24996580-2,12/08/1978,Masculino,  Isapre  ,,+56953433833
+219.0,Constanza Aguilera Flores,15841319-5,16/10/1978,Masculino,ISAPRE,La Serena,+56956196801
+220.0,Ana Fuentes Morales,24317842-6,1978-12-20,Femenino,Fonasa A,Coquimbo,+56992044858
+221.0,Sofía Silva Rojas,18323622-4,,Masculino,Fonasa B,Maipú,+56990175835
+222.0,Camila González Rodríguez,19988237-2,1979-04-29,NO BINARIO,FONASA C,Los Ángeles,+56968544156
+223.0,Sebastián Rodríguez González,8786338-3,03/07/1979,  Masculino  ,fonasa c,Quilpué,+56974114036
+224.0,,5454536-7,1979-09-06,Femenino,FONASA B,Rancagua,+56928378033
+225.0,Joaquín Medina Tapia,14267193-2,10/11/1979,Masculino,Particular,Rengo,+56952335811
+226.0,Joaquín Silva Rojas,,14/01/1980,Femenino,FONASA A,San Antonio,+56967105644
+227.0,José Flores Zambrano,24746827-1,19/03/1980,Masculino,fonasa b,Viña del Mar,+56933925710
+228.0,Joaquín Silva González,13915247-2,23/05/1980,Femenino,Fonasa A,Talcahuano,+56934727844
+229.0,Carolina Soto Reyes,17911945-1,1980-07-27,Femenino,particular,Coquimbo,+56934266570
+230.0,,14593723-0,1980-09-30,Masculino,Fonasa A,Villarrica,+56926761671
+231.0,Valentina Reyes Díaz,13884271-8,04/12/1980,Femenino,  Fonasa D  ,Cauquenes,+56991737041
+232.0,Catalina Reyes Jara,24579722-3,1981-02-07,Femenino,Fonasa B,Talcahuano,+56911062252
+233.0,Lorena García Soto,13315203-2,13/04/1981,Femenino,Fonasa C,La Florida,+56954531458
+234.0,Natalia Flores Díaz,18940393-1,17/06/1981,FEMENINO,ISAPRE,Villarrica,+56941663551
+,Ignacio Bravo Araya,15099797-5,1981-08-21,Femenino,,Concepción,+56938917860
+236.0,Carolina Martínez López,15366516-3,1981-10-25,MASCULINO,Particular,Puerto Montt,+56995255405
+237.0,Martín Núñez Araya,,1981-12-29,Masculino,ISAPRE,Castro,+56996908165
+238.0,Natalia Jara Contreras,24010976-6,1982-03-04,No binario,FONASA B,Rengo,+56998571153
+239.0,Carlos González López,12382334-7,08/05/1982,  Femenino  ,Isapre,Pucón,+56949580165
+240.0,José Medina Espinoza,12583485-1,12/07/1982,  Masculino  ,,Curicó,+56968999002
+241.0,,5606394-0,1982-09-15,femenino,  Isapre  ,Las Condes,
+242.0,,22923365-1,1982-11-19,Masculino,Fonasa A,Curicó,+56944711361
+243.0,Benjamín Pérez Vergara,21632341-8,1983-01-23,Femenino,FONASA A,Angol,+56976961753
+244.0,José Rojas Tapia,16954365-2,29/03/1983,Femenino,Fonasa C,Pucón,+56951245534
+245.0,Amanda Castro Tapia,9767707-1,,,Isapre,La Florida,+56974478238
+246.0,Fernanda Soto Pérez,7664249-5,1983-08-06,MASCULINO,Fonasa C,,+56962183535
+247.0,María Espinoza Figueroa,23420805-7,1983-10-10,  Masculino  ,Isapre,Rancagua,+56950745011
+248.0,,8099694-8,1983-12-14,Masculino,Fonasa A,Pucón,
+249.0,Sebastián Reyes González,14423806-5,17/02/1984,  Femenino  ,ISAPRE,Maipú,+56948731706
+250.0,Benjamín Jara Contreras,10248531-3,1984-04-22,  Masculino  ,Particular,La Florida,
+251.0,Daniela Bravo Zambrano,17171806-4,,Masculino,Particular,Castro,+56959978040
+252.0,Carlos Aguilera González,10912901-6,30/08/1984,Femenino,Fonasa C,Rancagua,+56990166601
+253.0,Francisca López Tapia,21961293-7,1984-11-03,Femenino,fonasa d,Rancagua,+56939908720
+254.0,Vicente López Reyes,13716152-4,1985-01-07,Femenino,Particular,Coquimbo,+56990635631
+255.0,Carolina Sepúlveda Castro,21711963-0,13/03/1985,Femenino,Fonasa C,Villarrica,+56968662999
+256.0,Lucas Espinoza Morales,8772478-7,1985-05-17,Masculino,FONASA D,Osorno,+56953789552
+257.0,Joaquín Medina González,11509410-2,21/07/1985,Femenino,Fonasa B,Curicó,+56932913980
+258.0,Bárbara Hernández Tapia,5849432-8,24/09/1985,  Femenino  ,fonasa c,San Fernando,+56922937099
+259.0,Carolina Aguilera Silva,18788258-5,1985-11-28,  Masculino  ,  Particular  ,Linares,+56941106335
+260.0,Ignacio Aguilera Torres,9952228-3,1986-02-01,Femenino,Particular,Chillán,+56981722941
+261.0,Paula Pérez Figueroa,19921977-7,07/04/1986,  Masculino  ,ISAPRE,Coquimbo,+56940229076
+262.0,José Figueroa Tapia,20199028-2,11/06/1986,Masculino,Fonasa D,Rancagua,+56951948384
+263.0,Constanza Figueroa Medina,24371131-6,1986-08-15,Femenino,Particular,Los Ángeles,+56910819619
+264.0,Pedro Medina Castro,18432006-5,19/10/1986,Femenino,,Concepción,+56975645744
+265.0,José García Martínez,18647850-3,1986-12-23,Femenino,,,+56920983796
+266.0,José Soto Martínez,11542416-7,1987-02-26,Femenino,fonasa c,Osorno,+56928411972
+267.0,Amanda Rivera Medina,5114262-1,02/05/1987,Femenino,Fonasa C,Viña del Mar,+56948583551
+268.0,,14350188-0,05/07/1987,FEMENINO,  Isapre  ,Concepción,+56954696776
+,Joaquín González Núñez,6565023-5,,  Femenino  ,Fonasa C,Rengo,+56956667256
+270.0,Valentina González Figueroa,10117072-7,1987-11-12,  Femenino  ,ISAPRE,Talcahuano,+56939281122
+271.0,Andrés Pérez Medina,23019062-1,16/01/1988,Masculino,Fonasa A,Temuco,+56923640196
+272.0,Francisca Vergara Flores,5824989-5,1988-03-21,Masculino,Fonasa D,Quilpué,+56932310226
+273.0,Martín Silva Medina,15921418-8,1988-05-25,masculino,Isapre,Puerto Montt,+56989984645
+274.0,Alejandra Medina Reyes,6531098-0,29/07/1988,Femenino,FONASA D,Maipú,+56917564055
+275.0,Valentina Martínez Torres,5849505-2,,  Femenino  ,Fonasa A,San Fernando,
+276.0,Tomás Castro Rodríguez,21235141-2,06/12/1988,FEMENINO,  Fonasa D  ,Puerto Montt,+56943438582
+277.0,Pedro Contreras Sepúlveda,9295758-1,09/02/1989,,isapre,Puerto Montt,+56962933653
+278.0,Fernanda Soto Espinoza,15374653-2,15/04/1989,Femenino,FONASA C,Ovalle,+56927143066
+279.0,Andrés Tapia Bravo,15730325-7,19/06/1989,Masculino,Fonasa D,Chillán,+56998370567
+280.0,Constanza Morales Sepúlveda,11538670-1,23/08/1989,Masculino,,Los Ángeles,+56934808116
+281.0,Agustín Zambrano Vergara,19274814-0,1989-10-27,Femenino,Particular,Concepción,
+282.0,Maximiliano Pérez Valenzuela,15104042-3,31/12/1989,,Particular,Osorno,+56919125390
+283.0,Ana Gatica Figueroa,24248978-1,06/03/1990,Femenino,  Fonasa A  ,Quilpué,+56973391224
+284.0,Fernanda Martínez Contreras,12302004-6,10/05/1990,Masculino,  Fonasa B  ,Temuco,+56941786590
+285.0,Carolina Rivera Reyes,,,Masculino,Fonasa C,Rancagua,+56995911762
+286.0,Francisca Torres Rojas,21588543-2,17/09/1990,Femenino,Isapre,Curicó,+56929218151
+287.0,Martín Tapia Flores,6177167-3,1990-11-21,Masculino,Fonasa A,Viña del Mar,+56995001070
+288.0,Andrés González Sepúlveda,9080995-3,25/01/1991,MASCULINO,Isapre,Santiago,+56972185010
+289.0,Andrés Figueroa Torres,17686375-9,31/03/1991,Masculino,Isapre,Villarrica,+56976391266
+290.0,María Muñoz Díaz,16605243-5,04/06/1991,Femenino,Fonasa D,Concepción,+56931079288
+291.0,Pedro Espinoza Hernández,10173244-8,1991-08-08,No binario,FONASA A,Viña del Mar,+56967122888
+292.0,Antonia Araya Bravo,18111911-2,1991-10-12,Femenino,Fonasa A,Concepción,
+293.0,Ana Medina Morales,5898889-9,16/12/1991,No binario,particular,,+56981950326
+294.0,Javiera Martínez Bravo,11257466-9,1992-02-19,Femenino,Fonasa C,Rengo,+56996239997
+295.0,Ignacio Rodríguez Flores,21261809-3,24/04/1992,Femenino,Fonasa B,Temuco,+56983226213
+296.0,Matías Jara Bravo,16541697-2,1992-06-28,FEMENINO,Isapre,Rengo,+56943068667
+297.0,,,01/09/1992,Femenino,FONASA C,Chillán,+56992877501
+298.0,Alejandra Aguilera Aguilera,16819511-3,1992-11-05,Masculino,Particular,Castro,+56956507120
+299.0,Constanza Morales Gatica,12872919-2,09/01/1993,Femenino,Fonasa C,Coquimbo,+56984582785
+300.0,Benjamín García Soto,10669892-2,1993-03-15,Masculino,ISAPRE,Temuco,+56953081879
+301.0,Andrés Araya Pérez,19854343-3,1993-05-19,Masculino,Fonasa D,Valparaíso,+56953114614
+302.0,Joaquín Figueroa González,11378835-8,1993-07-23,Femenino,,San Fernando,+56984375928
+303.0,Ignacio Pérez Díaz,10848750-0,26/09/1993,Masculino,Isapre,Puente Alto,+56953583719
+304.0,Gabriel Díaz Soto,14641175-5,30/11/1993,  No binario  ,Particular,Angol,+56932947096
+305.0,Camila Figueroa González,20894110-3,1994-02-03,  Femenino  ,Particular,Concepción,+56934285978
+306.0,Paula Rodríguez Medina,16879571-3,09/04/1994,Masculino,Fonasa A,Puente Alto,+56988444347
+307.0,Diego Soto Jara,9335321-3,1994-06-13,  Femenino  ,Fonasa B,Chillán,
+308.0,Constanza Tapia Soto,19201136-6,1994-08-17,Femenino,Fonasa D,Ovalle,+56950973161
+309.0,Carlos Figueroa Hernández,7922846-8,21/10/1994,Masculino,  Fonasa B  ,La Serena,+56932858779
+310.0,Benjamín Díaz Martínez,16744321-0,,femenino,Fonasa C,Rengo,+56956476289
+311.0,Felipe Rojas Rojas,20755229-6,1995-02-28,  Femenino  ,  Fonasa C  ,Rengo,+56928782845
+,Macarena Pérez Tapia,8074862-0,04/05/1995,Masculino,Isapre,Castro,+56951960195
+313.0,Natalia Jara González,23496111-7,1995-07-08,  Masculino  ,Isapre,Osorno,+56923610100
+314.0,María Zambrano Gatica,6528796-8,1995-09-11,Masculino,isapre,Castro,+56964503164
+315.0,Lorena Soto Flores,11289360-6,15/11/1995,Masculino,,Temuco,+56925523106
+316.0,Emilio Núñez Jara,21704543-1,1996-01-19,Masculino,Fonasa D,Castro,+56977425226
+317.0,Tomás Hernández Sepúlveda,21967348-2,1996-03-24,Femenino,FONASA B,Talcahuano,+56953982040
+318.0,Emilio Aguilera Medina,11707641-6,28/05/1996,MASCULINO,Fonasa C,Villarrica,+56975666498
+319.0,Vicente Fuentes Araya,6294341-1,01/08/1996,femenino,fonasa b,Viña del Mar,+56959424791
+,Gabriel Martínez Gatica,5475112-7,,Masculino,Fonasa D,Puerto Montt,+56992536894
+321.0,Fernanda Zambrano Silva,9183609-2,1996-12-09,Masculino,Fonasa B,Concepción,+56921278771
+322.0,Vicente Soto Flores,18301840-1,1997-02-12,Femenino,Fonasa B,Curicó,+56970213653
+323.0,Sofía Zambrano López,16885676-8,1997-04-18,Femenino,Particular,La Florida,+56918933547
+324.0,Isidora Soto Fuentes,12457854-8,22/06/1997,FEMENINO,Isapre,Valparaíso,+56917346961
+325.0,Pedro Rojas Gatica,23797886-2,1997-08-26,Masculino,Particular,,+56955095578
+326.0,Antonia Rojas Sepúlveda,8007838-7,30/10/1997,Femenino,Particular,Villarrica,+56917009579
+327.0,,19587514-4,1998-01-03,Masculino,Fonasa B,Quilpué,+56981013661
+328.0,,22922508-4,1998-03-09,Masculino,  Fonasa B  ,Ovalle,
+329.0,Macarena Reyes Fuentes,18506907-7,1998-05-13,Masculino,Particular,Valparaíso,+56916330192
+330.0,,11721090-5,17/07/1998,Femenino,Fonasa B,Ovalle,+56958757651
+331.0,Bárbara García Vergara,19851735-4,20/09/1998,masculino,Particular,La Serena,+56951408024
+332.0,Sofía Araya Aguilera,9396440-2,24/11/1998,Femenino,fonasa a,Castro,+56990434851
+333.0,Ana Espinoza Bravo,12040397-3,1999-01-28,  Femenino  ,Particular,Temuco,+56922448176
+334.0,Lucas Tapia Rojas,10125985-2,03/04/1999,Femenino,  Fonasa C  ,Talcahuano,+56944671976
+335.0,Amanda Valenzuela López,10415209-8,1999-06-07,Masculino,Fonasa C,,+56970161332
+336.0,Natalia Hernández Gatica,5566644-1,11/08/1999,Masculino,FONASA B,Maipú,+56970949346
+337.0,,14799133-4,1999-10-15,Masculino,Particular,Osorno,+56951239244
+338.0,Carolina Núñez Rodríguez,,19/12/1999,MASCULINO,  Particular  ,Puerto Montt,+56946137452
+339.0,Martín Hernández Castro,23797632-9,2000-02-22,Femenino,Isapre,Concepción,+56973299218
+340.0,Cristóbal Núñez Espinoza,10176878-2,,  Femenino  ,Isapre,Santiago,+56940913171
+341.0,Andrés Díaz Vergara,10994103-5,01/07/2000,Femenino,Isapre,Rancagua,+56959139993
+342.0,Antonia Díaz Valenzuela,18590463-0,04/09/2000,Femenino,Particular,Los Ángeles,+56995715276
+343.0,Benjamín Bravo Díaz,17650924-2,08/11/2000,,Particular,Cauquenes,+56938833181
+344.0,Daniela Figueroa Valenzuela,16325756-3,12/01/2001,Masculino,FONASA C,Talca,+56957864995
+345.0,Paula Vergara Rivera,17468512-0,18/03/2001,No binario,Fonasa D,La Florida,+56928944305
+346.0,Valentina Figueroa Espinoza,18073186-3,2001-05-22,Masculino,Fonasa B,,+56949938244
+347.0,Matías Fuentes Rodríguez,21065474-3,26/07/2001,  Femenino  ,Fonasa C,Los Ángeles,+56968835737
+,María Rojas Vergara,7237043-1,2001-09-29,Femenino,Isapre,Curicó,+56980991030
+349.0,Martín Contreras Rojas,22836618-0,03/12/2001,Femenino,Fonasa C,La Florida,+56949701147
+350.0,Alejandra Núñez Muñoz,14111908-6,06/02/2002,Masculino,,Chillán,+56925050502
+351.0,Santiago Contreras Hernández,21501274-4,12/04/2002,Femenino,  Fonasa C  ,Concepción,+56971907135
+352.0,Diego Soto Contreras,8507826-3,16/06/2002,  Femenino  ,Isapre,Puente Alto,+56925982981
+353.0,Macarena Flores Castro,5211826-7,2002-08-20,Femenino,Fonasa D,Castro,+56957836153
+354.0,Diego Muñoz Sepúlveda,15578212-3,2002-10-24,Femenino,Fonasa A,Puerto Montt,+56987924257
+355.0,Antonia Reyes Valenzuela,23753253-4,2002-12-28,Masculino,Fonasa B,Coquimbo,
+356.0,Marcela Castro Díaz,,2003-03-03,Masculino,FONASA B,Curicó,+56986648532
+357.0,Marcela Rodríguez Morales,15870255-2,2003-05-07,No binario,Fonasa C,Talcahuano,+56971667990
+358.0,Cristóbal Muñoz Espinoza,5454731-1,2003-07-11,Femenino,Fonasa D,Castro,+56936768222
+359.0,Paula Figueroa Hernández,12373638-6,2003-09-14,Femenino,isapre,Curicó,+56944890901
+360.0,Martín Bravo Soto,10855744-6,18/11/2003,Masculino,Fonasa A,Coquimbo,+56948840591
+361.0,Marcela Rodríguez González,6923740-8,22/01/2004,MASCULINO,Fonasa A,Quilpué,+56990937930
+362.0,Valentina Martínez Rodríguez,14624209-6,2004-03-27,Masculino,Fonasa C,San Antonio,+56937269624
+363.0,Benjamín Jara Rivera,12691971-9,31/05/2004,Femenino,Fonasa C,Chillán,+56914918680
+364.0,Ana González Morales,20888915-5,04/08/2004,Masculino,Isapre,La Serena,+56954744169
+365.0,Vicente Díaz Soto,17955913-1,08/10/2004,Masculino,Isapre,Cauquenes,+56941053688
+366.0,Martín Silva Vergara,15530419-4,12/12/2004,FEMENINO,Particular,Temuco,+56975542595
+367.0,Javiera Rodríguez Rivera,20976738-0,15/02/2005,Femenino,Isapre,Santiago,+56978524204
+368.0,Lorena Gatica Valenzuela,17131005-5,2005-04-21,Masculino,Fonasa C,Curicó,+56981714625
+369.0,Cristóbal Vergara Rojas,13436492-9,2005-06-25,Femenino,Fonasa D,Talcahuano,+56914064806
+370.0,Benjamín Reyes Rojas,7440127-2,2005-08-29,Femenino,Fonasa C,Curicó,+56939829291
+371.0,Alejandra Contreras Valenzuela,7257971-5,02/11/2005,MASCULINO,Fonasa C,Viña del Mar,+56936204095
+372.0,Felipe Martínez Medina,7901718-6,06/01/2006,FEMENINO,Fonasa A,Rancagua,+56926751951
+373.0,Agustín Díaz Rivera,13981452-1,2006-03-12,FEMENINO,Isapre,Ovalle,+56981115416
+374.0,Natalia Figueroa Muñoz,7600239-9,16/05/2006,Masculino,Fonasa B,San Antonio,+56939229029
+375.0,Sebastián Pérez Díaz,16483028-5,2006-07-20,  Masculino  ,Isapre,Rengo,+56966543954
+376.0,María Espinoza Reyes,19370195-4,2006-09-23,Masculino,Particular,Puente Alto,+56921159651
+377.0,Marcela Fuentes Núñez,5567304-9,27/11/2006,Femenino,Fonasa D,Coquimbo,+56919213734
+378.0,María Fuentes Silva,8064324-9,2007-01-31,Masculino,Fonasa D,Puerto Montt,+56936983030
+,María Bravo Rivera,17615636-9,06/04/2007,  Masculino  ,Isapre,Puente Alto,+56942164731
+380.0,Andrés Rojas Fuentes,12097432-9,10/06/2007,Femenino,Isapre,Rengo,+56996477790
+381.0,Amanda Rojas Flores,15772333-7,2007-08-14,Masculino,Fonasa C,Concepción,+56979949667
+382.0,Paula Reyes Pérez,23358359-7,18/10/2007,No binario,Fonasa B,Quilpué,+56990648127
+383.0,,17004188-2,22/12/2007,Masculino,Fonasa C,Talca,+56934457130
+384.0,Sebastián Vergara Rodríguez,7019913-7,25/02/2008,Femenino,Fonasa A,Chillán,+56967327614
+385.0,Lucas Rivera Rivera,5017714-2,30/04/2008,masculino,fonasa a,Coquimbo,+56915024382
+386.0,Catalina Figueroa Vergara,5609353-4,04/07/2008,MASCULINO,Fonasa D,San Antonio,+56978850990
+387.0,Sofía Rojas Figueroa,10661547-6,2008-09-07,Masculino,Fonasa D,Quilpué,+56973677489
+388.0,Joaquín Pérez Rojas,10311522-0,2008-11-11,No binario,Fonasa B,,+56977917874
+389.0,Ana Araya Torres,7386412-9,2009-01-15,MASCULINO,FONASA D,Linares,+56981799490
+390.0,Emilio González Muñoz,21647374-1,2009-03-21,,Particular,Rengo,+56933499185
+391.0,,9561901-1,2009-05-25,Femenino,Fonasa A,La Serena,+56984734631
+392.0,Pedro Castro Valenzuela,10022130-4,,Femenino,FONASA B,Maipú,+56919169403
+393.0,Ignacio Gatica Rojas,7459258-3,2009-10-02,  Masculino  ,Fonasa A,Osorno,+56957328710
+394.0,Catalina Zambrano Flores,24178828-3,2009-12-06,femenino,Isapre,Rengo,+56933365734
+395.0,Fernanda Martínez Fuentes,19428287-9,09/02/2010,FEMENINO,Isapre,Castro,+56974413640
+396.0,Santiago López Reyes,18540343-7,15/04/2010,  Masculino  ,FONASA B,Puerto Montt,+56982921170
+397.0,Isidora Figueroa Hernández,22850296-9,2010-06-19,Femenino,FONASA C,Rengo,+56973782658
+398.0,José González Espinoza,20230464-6,23/08/2010,NO BINARIO,Particular,Viña del Mar,
+399.0,Alejandra Medina Castro,6219223-9,27/10/2010,,Particular,San Fernando,+56911294218
+,Matías Vergara Jara,22556344-7,31/12/2010,Masculino,  Fonasa D  ,Linares,+56948284400
+138.0,Sebastián Díaz González,19086135-7,1964-05-17,masculino,fonasa d,Rengo,+56941750868
+11.0,Joaquín Reyes Contreras,24532469-0,1941-10-11,  Femenino  ,fonasa a,Osorno,+56968405557
+391.0,,9561901-1,2009-05-25,Femenino,Fonasa A,La Serena,+56984734631
+333.0,Ana Espinoza Bravo,12040397-3,1999-01-28,  Femenino  ,Particular,Temuco,+56922448176
+364.0,Ana González Morales,20888915-5,04/08/2004,Masculino,Isapre,La Serena,+56954744169
+189.0,Fernanda Hernández Vergara,11788292-0,1973-06-14,  Femenino  ,Fonasa D,Puente Alto,+56967408518
+94.0,Nicolás Rojas González,14353117-7,19/07/1956,No binario,  Fonasa C  ,Rancagua,+56932015250
+342.0,Antonia Díaz Valenzuela,18590463-0,04/09/2000,Femenino,Particular,Los Ángeles,+56995715276
+,Carolina Castro Morales,11744883-8,11/01/1972,MASCULINO,Isapre,Villarrica,+56931742665
+321.0,Fernanda Zambrano Silva,9183609-2,1996-12-09,Masculino,Fonasa B,Concepción,+56921278771
+283.0,Ana Gatica Figueroa,24248978-1,06/03/1990,Femenino,  Fonasa A  ,Quilpué,+56973391224
+391.0,,9561901-1,2009-05-25,Femenino,Fonasa A,La Serena,+56984734631

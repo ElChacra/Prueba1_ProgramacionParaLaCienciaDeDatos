@@ -1,0 +1,13 @@
+# NUCLEO KEDRO
+kedro~=1.3.0
+kedro-datasets[pandas,pickle]>=9.0
+
+# DATOS Y CIENCIA
+pandas>=3.0,<4.0
+numpy>=2.4,<3.0
+scikit-learn>=1.8
+
+# JUPYTER (kedro jupyter notebook / lab)
+ipython>=8.10
+jupyterlab>=4.0
+notebook>=7.0

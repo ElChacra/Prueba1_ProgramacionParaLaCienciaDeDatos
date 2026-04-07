@@ -1,0 +1,825 @@
+id_consulta,id_paciente,fecha,id_medico,especialidad,diagnostico_principal,diagnostico_secundario,costo
+1.0,223.0,01/01/2023,43.0,PEDIATRÍA,Fractura,Ninguno,315120.0
+2.0,174.0,2023-01-01,4.0,pediatría,Infección respiratoria,,401661.0
+3.0,191.0,02/01/2023,42.0,Oftalmología,Diabetes,Depresión,367092.0
+4.0,140.0,2023-01-03,1.0,Oftalmología,,Obesidad,219153.0
+5.0,297.0,,34.0,,Control preventivo,Ninguno,410456.0
+6.0,119.0,05/01/2023,41.0,Medicina General,Anemia,Diabetes,347434.0
+7.0,275.0,06/01/2023,26.0,Oftalmología,Control preventivo,Hipertensión,64582.0
+8.0,76.0,2023-01-07,18.0,Ginecología,Lumbalgia,,272237.0
+9.0,109.0,2023-01-08,16.0,Pediatría,Diabetes,,365635.0
+10.0,119.0,2023-01-09,23.0,OFTALMOLOGÍA,Anemia,Diabetes,278878.0 aprox
+11.0,369.0,2023-01-10,46.0,Pediatría,Migraña,Depresión,474769.0
+12.0,258.0,11/01/2023,36.0,Ginecología,Migraña,Depresión,55238.0
+13.0,20.0,2023-01-11,26.0,Medicina General,Anemia,Depresión,362549.0
+14.0,,12/01/2023,2.0,Ginecología,Hipertensión,Diabetes,413103.0
+,351.0,2023-01-13,44.0,MEDICINA GENERAL,Diabetes,Ansiedad,352813.0
+16.0,137.0,2023-01-14,5.0,Medicina General,Gastritis,Ansiedad,195865.0
+17.0,277.0,2023-01-15,29.0,  Traumatología  ,Lumbalgia,Diabetes,195813.0
+18.0,255.0,2023-01-16,4.0,Medicina General,,Hipertensión,295351.0
+19.0,,17/01/2023,47.0,MEDICINA GENERAL,Migraña,,201564.0
+20.0,167.0,2023-01-18,35.0,Medicina General,Diabetes,Diabetes,442176.0
+21.0,165.0,,22.0,Neurología,Dermatitis,,59416.0
+22.0,29.0,20/01/2023,49.0,Oftalmología,Diabetes,,321383.0
+23.0,35.0,21/01/2023,8.0,Oftalmología,Dermatitis,Depresión,71387.0
+24.0,237.0,,44.0,Dermatología,Control preventivo,,272379.0
+25.0,294.0,2023-01-22,21.0,Neurología,Control preventivo,Depresión,359213.0
+26.0,,23/01/2023,,Dermatología,,Depresión,86928.0
+27.0,203.0,24/01/2023,5.0,Traumatología,Infección respiratoria,Ansiedad,353496.0
+28.0,228.0,2023-01-25,21.0,traumatología,Fractura,Diabetes,74290.0
+29.0,68.0,26/01/2023,27.0,Oftalmología,Gastritis,Hipertensión,312174.0
+30.0,131.0,2023-01-27,38.0,,Lumbalgia,Hipertensión,255249.0
+31.0,365.0,2023-01-28,5.0,Pediatría,Control preventivo,Depresión,
+32.0,111.0,2023-01-29,21.0,  Ginecología  ,Lumbalgia,Depresión,60217.0
+33.0,12.0,30/01/2023,8.0,Ginecología,Gastritis,Diabetes,$369248.0
+34.0,288.0,31/01/2023,22.0,Neurología,Fractura,Hipertensión,$193994.0
+35.0,175.0,01/02/2023,18.0,Dermatología,Dermatitis,Diabetes,47833.0
+36.0,319.0,01/02/2023,4.0,Traumatología,Gastritis,,387531.0
+37.0,154.0,02/02/2023,4.0,Traumatología,Control preventivo,Ansiedad,120283.0
+38.0,43.0,03/02/2023,37.0,Oftalmología,,Diabetes,369544.0
+39.0,363.0,2023-02-04,15.0,NEUROLOGÍA,Migraña,Depresión,284625.0
+40.0,205.0,,38.0,Pediatría,Hipertensión,Ninguno,101292.0
+,172.0,2023-02-06,27.0,OFTALMOLOGÍA,Hipertensión,Ansiedad,42821.0
+42.0,,2023-02-07,21.0,  Oftalmología  ,Gastritis,Hipertensión,298658.0
+,285.0,08/02/2023,48.0,medicina general,Lumbalgia,Hipertensión,17480.0
+44.0,311.0,09/02/2023,46.0,Cardiología,Hipertensión,Depresión,37405.0
+45.0,52.0,10/02/2023,46.0,Pediatría,Diabetes,Depresión,352598.0
+46.0,115.0,2023-02-11,48.0,Ginecología,Fractura,Ansiedad,$271743.0
+47.0,19.0,2023-02-12,4.0,Oftalmología,Hipertensión,Depresión,166516.0
+48.0,35.0,2023-02-12,11.0,Ginecología,Diabetes,Ninguno,271918.0
+49.0,48.0,2023-02-13,19.0,cardiología,Dermatitis,Ansiedad,2978660.0
+50.0,233.0,2023-02-14,19.0,PEDIATRÍA,Lumbalgia,Depresión,284817.0
+51.0,219.0,15/02/2023,,,Migraña,,323064.0
+52.0,110.0,16/02/2023,40.0,Medicina General,Migraña,Obesidad,470443.0
+53.0,254.0,17/02/2023,42.0,  Traumatología  ,Fractura,Ninguno,
+54.0,188.0,18/02/2023,28.0,Dermatología,Diabetes,Ansiedad,154070.0
+55.0,31.0,19/02/2023,5.0,Pediatría,Infección respiratoria,Obesidad,24025.0
+56.0,259.0,2023-02-20,48.0,medicina general,Migraña,Diabetes,77801.0
+57.0,163.0,2023-02-21,25.0,  Ginecología  ,Migraña,Ninguno,57594.0
+58.0,344.0,22/02/2023,3.0,Cardiología,Dermatitis,Diabetes,171045.0
+59.0,308.0,,26.0,Neurología,Migraña,Obesidad,306945.0
+,71.0,23/02/2023,10.0,Ginecología,Migraña,Hipertensión,27935.0
+61.0,307.0,2023-02-24,24.0,,Hipertensión,Hipertensión,365194.0
+62.0,56.0,2023-02-25,29.0,Neurología,Migraña,Depresión,201729.0
+63.0,99.0,26/02/2023,45.0,  Traumatología  ,Dermatitis,Hipertensión,481935.0
+64.0,21.0,2023-02-27,7.0,Neurología,Lumbalgia,Diabetes,286351.0
+65.0,385.0,2023-02-28,44.0,Pediatría,Gastritis,,386824.0
+66.0,108.0,01/03/2023,23.0,Cardiología,Migraña,,431285.0
+67.0,53.0,,46.0,PEDIATRÍA,,Diabetes,444979.0
+68.0,6.0,2023-03-03,27.0,Neurología,Fractura,Hipertensión,
+69.0,231.0,04/03/2023,42.0,Dermatología,Infección respiratoria,Diabetes,~201388.0
+70.0,82.0,05/03/2023,9.0,Ginecología,Anemia,Obesidad,282455.0
+71.0,217.0,05/03/2023,44.0,Oftalmología,Hipertensión,Ansiedad,204025.0
+72.0,335.0,06/03/2023,3.0,Neurología,Control preventivo,Ansiedad,124154.0
+73.0,47.0,07/03/2023,13.0,Oftalmología,Dermatitis,Ansiedad,165340.0
+74.0,352.0,2023-03-08,6.0,Dermatología,Fractura,Depresión,120221.0
+75.0,362.0,09/03/2023,38.0,,Gastritis,,138372.0
+76.0,,2023-03-10,21.0,Traumatología,Control preventivo,,51336.0
+77.0,178.0,2023-03-11,19.0,Cardiología,Anemia,Hipertensión,216099.0
+78.0,82.0,2023-03-12,25.0,  Dermatología  ,Lumbalgia,,121466.0 aprox
+79.0,287.0,2023-03-13,39.0,  Medicina General  ,Fractura,Hipertensión,226941.0
+80.0,192.0,2023-03-14,4.0,Traumatología,Anemia,Ansiedad,397138.0
+81.0,143.0,15/03/2023,22.0,pediatría,Anemia,Ninguno,
+82.0,314.0,16/03/2023,5.0,Neurología,Lumbalgia,Depresión,477533.0
+83.0,,16/03/2023,1.0,  Cardiología  ,Fractura,Ansiedad,78179.0
+84.0,41.0,17/03/2023,17.0,Cardiología,Hipertensión,Diabetes,~425881.0
+85.0,271.0,2023-03-18,9.0,Neurología,Lumbalgia,,127888.0
+86.0,87.0,2023-03-19,9.0,Medicina General,Hipertensión,,467297.0
+87.0,3.0,20/03/2023,24.0,GINECOLOGÍA,Infección respiratoria,,~117438.0
+88.0,211.0,21/03/2023,10.0,ginecología,Control preventivo,,374746.0
+,1.0,22/03/2023,20.0,,Infección respiratoria,,35748.0
+90.0,75.0,23/03/2023,17.0,Neurología,Lumbalgia,Ninguno,316758.0
+91.0,395.0,24/03/2023,,Oftalmología,Dermatitis,Hipertensión,113244.0
+92.0,231.0,25/03/2023,29.0,Cardiología,Infección respiratoria,,336735.0
+93.0,76.0,26/03/2023,36.0,,Dermatitis,Hipertensión,319736.0
+94.0,260.0,26/03/2023,23.0,Ginecología,Dermatitis,Diabetes,462229.0
+95.0,25.0,2023-03-27,27.0,medicina general,Lumbalgia,Ansiedad,315205.0
+96.0,200.0,2023-03-28,18.0,Ginecología,Gastritis,Obesidad,
+97.0,94.0,2023-03-29,18.0,Pediatría,Migraña,Diabetes,100816.0
+98.0,352.0,30/03/2023,9.0,Medicina General,Anemia,,330438.0
+99.0,108.0,31/03/2023,3.0,traumatología,Infección respiratoria,Hipertensión,62601.0
+100.0,355.0,01/04/2023,7.0,Oftalmología,Diabetes,Ninguno,415116.0
+101.0,95.0,02/04/2023,15.0,Cardiología,Infección respiratoria,,127431.0
+102.0,356.0,2023-04-03,30.0,Traumatología,Gastritis,Hipertensión,264459.0
+103.0,91.0,2023-04-04,9.0,Ginecología,Control preventivo,Hipertensión,299994.0
+104.0,44.0,05/04/2023,41.0,Medicina General,Gastritis,,184433.0
+105.0,384.0,,27.0,MEDICINA GENERAL,Migraña,Ninguno,333618.0
+106.0,23.0,06/04/2023,36.0,Oftalmología,Lumbalgia,Ansiedad,128857.0
+107.0,190.0,07/04/2023,18.0,Traumatología,Anemia,Ansiedad,22139.0
+108.0,23.0,2023-04-08,31.0,Pediatría,Gastritis,,479838.0
+109.0,234.0,2023-04-09,17.0,MEDICINA GENERAL,Infección respiratoria,,163423.0
+110.0,186.0,2023-04-10,,Traumatología,Control preventivo,,358164.0
+111.0,311.0,2023-04-11,39.0,Traumatología,Gastritis,Hipertensión,256229.0
+112.0,333.0,2023-04-12,25.0,  Oftalmología  ,Diabetes,,336154.0
+113.0,63.0,13/04/2023,42.0,Cardiología,,Diabetes,59914.0
+,103.0,14/04/2023,42.0,Pediatría,Dermatitis,Obesidad,261830.0
+115.0,316.0,,38.0,Dermatología,Lumbalgia,,199149.0
+116.0,189.0,16/04/2023,38.0,Traumatología,Fractura,Diabetes,228666.0
+117.0,336.0,16/04/2023,31.0,Oftalmología,Hipertensión,Depresión,483273.0 aprox
+118.0,189.0,2023-04-17,29.0,Oftalmología,Anemia,,-362315.0
+119.0,351.0,18/04/2023,40.0,cardiología,Lumbalgia,Hipertensión,378577.0
+120.0,69.0,19/04/2023,9.0,Dermatología,Migraña,Hipertensión,168520.0
+121.0,114.0,2023-04-20,1.0,  Oftalmología  ,Lumbalgia,Obesidad,148727.0
+,104.0,21/04/2023,16.0,OFTALMOLOGÍA,Infección respiratoria,Obesidad,139035.0
+123.0,108.0,22/04/2023,38.0,Cardiología,Lumbalgia,Obesidad,177647.0
+124.0,345.0,2023-04-23,23.0,Cardiología,Lumbalgia,Hipertensión,181773.0
+125.0,21.0,2023-04-24,8.0,Neurología,Hipertensión,Hipertensión,139020.0
+126.0,387.0,25/04/2023,47.0,pediatría,Fractura,Diabetes,335409.0
+127.0,266.0,26/04/2023,12.0,  Medicina General  ,Control preventivo,Hipertensión,28622.0
+128.0,343.0,2023-04-27,10.0,Pediatría,Hipertensión,Depresión,
+129.0,209.0,2023-04-27,,Dermatología,Infección respiratoria,,143702.0
+130.0,170.0,2023-04-28,47.0,Neurología,Infección respiratoria,Ansiedad,376952.0
+131.0,194.0,2023-04-29,43.0,Oftalmología,Migraña,Obesidad,77517.0
+132.0,347.0,30/04/2023,24.0,Pediatría,Dermatitis,Hipertensión,470640.0
+133.0,393.0,01/05/2023,39.0,Oftalmología,Control preventivo,Depresión,89407.0
+134.0,123.0,2023-05-02,8.0,Medicina General,Infección respiratoria,Ansiedad,188164.0
+135.0,177.0,2023-05-03,11.0,pediatría,Hipertensión,Diabetes,103852.0
+136.0,4.0,2023-05-04,41.0,Pediatría,Infección respiratoria,Ninguno,146915.0
+137.0,188.0,05/05/2023,26.0,Pediatría,Lumbalgia,,381707.0
+138.0,346.0,2023-05-06,7.0,Traumatología,Dermatitis,Diabetes,240820.0
+139.0,352.0,07/05/2023,15.0,Traumatología,,Ninguno,
+140.0,29.0,2023-05-07,15.0,PEDIATRÍA,Lumbalgia,Depresión,28084.0
+141.0,86.0,08/05/2023,48.0,Medicina General,Migraña,Diabetes,118809.0
+142.0,47.0,09/05/2023,3.0,Oftalmología,,Ansiedad,473073.0
+143.0,,2023-05-10,16.0,,,Hipertensión,423432.0
+144.0,,,15.0,MEDICINA GENERAL,Hipertensión,,22288600.0
+145.0,191.0,12/05/2023,25.0,Medicina General,Migraña,Hipertensión,243588.0
+146.0,31.0,13/05/2023,33.0,MEDICINA GENERAL,,Depresión,450186.0
+147.0,307.0,14/05/2023,14.0,Oftalmología,Control preventivo,,
+148.0,169.0,15/05/2023,24.0,NEUROLOGÍA,Lumbalgia,,440980.0
+149.0,36.0,16/05/2023,11.0,Neurología,Migraña,Hipertensión,248460.0
+150.0,245.0,,3.0,CARDIOLOGÍA,Dermatitis,Ansiedad,104048.0 aprox
+151.0,351.0,18/05/2023,9.0,Pediatría,Migraña,Depresión,364334.0
+152.0,188.0,2023-05-18,6.0,  Ginecología  ,Control preventivo,,265565.0
+153.0,15.0,,31.0,Ginecología,Gastritis,Obesidad,335878.0
+154.0,334.0,20/05/2023,16.0,Pediatría,Lumbalgia,Obesidad,82829.0
+155.0,216.0,2023-05-21,11.0,Cardiología,Dermatitis,Ninguno,325563.0
+156.0,158.0,22/05/2023,17.0,MEDICINA GENERAL,Control preventivo,,194217.0
+157.0,155.0,23/05/2023,49.0,Dermatología,Lumbalgia,Hipertensión,169339.0
+158.0,241.0,2023-05-24,3.0,Dermatología,Hipertensión,Diabetes,337380.0
+159.0,296.0,2023-05-25,19.0,Oftalmología,Lumbalgia,Diabetes,298158.0
+,45.0,2023-05-26,24.0,Cardiología,Control preventivo,Depresión,326308.0
+161.0,175.0,27/05/2023,47.0,GINECOLOGÍA,Diabetes,Ninguno,482840.0
+162.0,346.0,28/05/2023,42.0,Dermatología,Diabetes,Ninguno,352092.0
+163.0,56.0,29/05/2023,8.0,Traumatología,Migraña,Ninguno,322245.0
+164.0,54.0,29/05/2023,49.0,Pediatría,Infección respiratoria,Ansiedad,308709.0
+165.0,341.0,30/05/2023,36.0,Dermatología,Hipertensión,Diabetes,202364.0
+166.0,265.0,2023-05-31,,Oftalmología,Lumbalgia,Depresión,$420400.0
+167.0,374.0,01/06/2023,2.0,Neurología,Control preventivo,Ansiedad,193565.0
+168.0,239.0,2023-06-02,23.0,Oftalmología,Fractura,Depresión,351621.0
+169.0,321.0,03/06/2023,40.0,Neurología,Hipertensión,Ansiedad,150106.0
+,108.0,04/06/2023,30.0,Ginecología,Diabetes,Hipertensión,78139.0
+171.0,198.0,05/06/2023,25.0,Ginecología,Gastritis,Ansiedad,69233.0
+172.0,385.0,06/06/2023,7.0,Traumatología,Fractura,Ansiedad,319107.0
+173.0,214.0,07/06/2023,28.0,Oftalmología,Infección respiratoria,Hipertensión,167338.0
+174.0,246.0,2023-06-08,41.0,Pediatría,Lumbalgia,Obesidad,141149.0
+175.0,397.0,2023-06-08,17.0,  Oftalmología  ,Fractura,Hipertensión,298069.0
+,38.0,09/06/2023,32.0,Traumatología,Control preventivo,Ninguno,17707.0
+177.0,173.0,,,pediatría,Dermatitis,,126882.0
+178.0,105.0,2023-06-11,,Pediatría,Dermatitis,,173571.0
+179.0,40.0,2023-06-12,44.0,Ginecología,Migraña,,355645.0
+180.0,399.0,13/06/2023,36.0,Dermatología,Fractura,Diabetes,274776.0
+181.0,130.0,2023-06-14,49.0,Oftalmología,Diabetes,,428714.0
+182.0,181.0,15/06/2023,7.0,Neurología,Migraña,Depresión,$170581.0
+183.0,194.0,2023-06-16,3.0,Cardiología,Dermatitis,Ansiedad,151738.0
+184.0,331.0,17/06/2023,30.0,Dermatología,Infección respiratoria,Obesidad,21433.0
+185.0,289.0,2023-06-18,1.0,Oftalmología,Fractura,Diabetes,476100.0
+186.0,341.0,19/06/2023,34.0,Ginecología,Infección respiratoria,Hipertensión,253239.0
+187.0,59.0,19/06/2023,38.0,Medicina General,Infección respiratoria,Hipertensión,253749.0
+188.0,351.0,20/06/2023,43.0,TRAUMATOLOGÍA,,Ninguno,462101.0
+189.0,26.0,21/06/2023,36.0,Ginecología,Diabetes,,148510.0
+190.0,103.0,22/06/2023,33.0,Oftalmología,Fractura,Ninguno,
+191.0,,2023-06-23,43.0,Medicina General,Anemia,Obesidad,329892.0
+,80.0,2023-06-24,16.0,Pediatría,Diabetes,,393662.0
+193.0,,2023-06-25,38.0,ginecología,Anemia,Depresión,351159.0
+194.0,199.0,2023-06-26,11.0,Dermatología,Lumbalgia,,395416.0
+195.0,322.0,27/06/2023,8.0,oftalmología,Anemia,Hipertensión,289678.0
+196.0,37.0,28/06/2023,1.0,Medicina General,Dermatitis,Obesidad,432098.0
+197.0,14.0,29/06/2023,14.0,Medicina General,Control preventivo,,277303.0
+198.0,221.0,29/06/2023,30.0,Neurología,Fractura,Obesidad,118524.0
+199.0,364.0,30/06/2023,21.0,Ginecología,Anemia,Depresión,273142.0
+200.0,391.0,01/07/2023,21.0,Medicina General,Migraña,,~357908.0
+201.0,166.0,2023-07-02,34.0,Neurología,Anemia,Obesidad,328520.0
+202.0,173.0,03/07/2023,38.0,,Fractura,Ninguno,125293.0
+203.0,150.0,04/07/2023,26.0,Pediatría,Migraña,Depresión,25334.0
+204.0,172.0,2023-07-05,41.0,OFTALMOLOGÍA,Hipertensión,Hipertensión,129978.0
+205.0,81.0,2023-07-06,,Neurología,Migraña,,492101.0
+206.0,336.0,07/07/2023,40.0,Pediatría,Migraña,Ninguno,96311.0
+207.0,225.0,08/07/2023,35.0,Neurología,Diabetes,Ninguno,234864.0
+208.0,359.0,2023-07-09,42.0,Neurología,Anemia,Depresión,320981.0 aprox
+209.0,35.0,10/07/2023,18.0,Ginecología,Anemia,Depresión,440339.0
+210.0,358.0,10/07/2023,20.0,Ginecología,Gastritis,Obesidad,381328.0
+211.0,188.0,2023-07-11,9.0,Pediatría,Migraña,Diabetes,454932.0
+212.0,224.0,2023-07-12,41.0,Medicina General,Control preventivo,Diabetes,304170.0
+213.0,,2023-07-13,45.0,Traumatología,Diabetes,Diabetes,$433333.0
+214.0,374.0,14/07/2023,33.0,Dermatología,,,135602.0
+215.0,351.0,2023-07-15,49.0,dermatología,Diabetes,,218130.0
+216.0,311.0,16/07/2023,4.0,Pediatría,Anemia,Obesidad,422667.0
+217.0,9.0,2023-07-17,4.0,Medicina General,Gastritis,Ansiedad,166154.0
+218.0,69.0,18/07/2023,48.0,Ginecología,Infección respiratoria,,436255.0
+219.0,28.0,19/07/2023,16.0,ginecología,Fractura,Hipertensión,184742.0
+220.0,399.0,20/07/2023,47.0,  Traumatología  ,Hipertensión,Obesidad,184880.0
+221.0,369.0,2023-07-21,26.0,cardiología,Hipertensión,Obesidad,157971.0
+222.0,234.0,2023-07-21,6.0,Ginecología,Fractura,,275737.0
+223.0,31.0,2023-07-22,37.0,Pediatría,Diabetes,Diabetes,68889.0
+224.0,315.0,2023-07-23,22.0,  Cardiología  ,Lumbalgia,Depresión,23118.0
+225.0,232.0,2023-07-24,42.0,,Fractura,Obesidad,449219.0
+226.0,338.0,2023-07-25,39.0,Dermatología,Infección respiratoria,Ansiedad,464824.0
+227.0,54.0,2023-07-26,7.0,Ginecología,Infección respiratoria,,42704.0
+228.0,175.0,27/07/2023,42.0,Traumatología,Migraña,Hipertensión,277100.0
+229.0,298.0,2023-07-28,30.0,Oftalmología,Migraña,Ansiedad,272143.0
+230.0,279.0,29/07/2023,10.0,Traumatología,Migraña,Obesidad,
+231.0,365.0,30/07/2023,15.0,Cardiología,Migraña,Obesidad,286608.0
+232.0,86.0,31/07/2023,6.0,Oftalmología,Lumbalgia,Ninguno,231769.0
+233.0,65.0,2023-07-31,24.0,Ginecología,Lumbalgia,Ansiedad,247369.0
+234.0,89.0,01/08/2023,2.0,Dermatología,Gastritis,Ninguno,378892.0
+235.0,54.0,02/08/2023,40.0,Traumatología,Hipertensión,Depresión,265350.0
+236.0,118.0,2023-08-03,15.0,traumatología,Anemia,Ansiedad,165211.0
+237.0,361.0,2023-08-04,21.0,OFTALMOLOGÍA,Lumbalgia,Diabetes,292821.0
+238.0,229.0,05/08/2023,18.0,Dermatología,Dermatitis,Depresión,322173.0
+239.0,267.0,2023-08-06,5.0,  Ginecología  ,Infección respiratoria,Diabetes,332844.0
+240.0,319.0,07/08/2023,25.0,Dermatología,Anemia,Ansiedad,311062.0
+241.0,22.0,08/08/2023,36.0,Medicina General,,Ninguno,333978.0
+242.0,247.0,2023-08-09,10.0,Neurología,Migraña,Diabetes,158496.0
+243.0,373.0,10/08/2023,46.0,Traumatología,Lumbalgia,Obesidad,225836.0
+244.0,314.0,11/08/2023,23.0,  Cardiología  ,Anemia,,336010.0
+245.0,20.0,2023-08-11,24.0,  Ginecología  ,,Hipertensión,378412.0
+246.0,400.0,2023-08-12,45.0,Pediatría,Gastritis,Ninguno,219902.0
+,184.0,,10.0,Pediatría,Dermatitis,Depresión,185840.0
+,349.0,14/08/2023,6.0,Dermatología,Dermatitis,,359362.0
+249.0,50.0,2023-08-15,13.0,Neurología,Hipertensión,Depresión,114976.0
+250.0,90.0,,21.0,Ginecología,Migraña,Ansiedad,9699.0
+251.0,104.0,17/08/2023,32.0,Ginecología,Dermatitis,Depresión,238227.0
+252.0,194.0,2023-08-18,43.0,Cardiología,Control preventivo,Hipertensión,90820.0
+253.0,383.0,19/08/2023,15.0,  Medicina General  ,Control preventivo,Hipertensión,192250.0
+254.0,369.0,2023-08-20,2.0,Oftalmología,Fractura,Obesidad,149161.0
+255.0,74.0,2023-08-21,15.0,Traumatología,Dermatitis,Depresión,389745.0
+256.0,269.0,2023-08-21,17.0,Medicina General,Anemia,Ninguno,169047.0
+257.0,15.0,2023-08-22,20.0,Ginecología,Lumbalgia,Hipertensión,322135.0
+258.0,329.0,23/08/2023,6.0,Cardiología,Diabetes,Ninguno,338587.0
+259.0,283.0,24/08/2023,15.0,Medicina General,Hipertensión,Obesidad,230945.0
+260.0,392.0,2023-08-25,17.0,Dermatología,,Ansiedad,45134.0
+261.0,198.0,2023-08-26,26.0,Pediatría,Fractura,Hipertensión,~351681.0
+,344.0,,22.0,  Dermatología  ,Anemia,Hipertensión,42208.0
+263.0,195.0,28/08/2023,9.0,Traumatología,Infección respiratoria,Hipertensión,54110.0
+264.0,,29/08/2023,12.0,Dermatología,Control preventivo,Depresión,102019.0
+265.0,205.0,2023-08-30,22.0,Cardiología,Lumbalgia,Ninguno,143786.0
+266.0,308.0,31/08/2023,23.0,GINECOLOGÍA,Fractura,,423994.0
+267.0,139.0,01/09/2023,37.0,Cardiología,Anemia,Hipertensión,339086.0
+268.0,264.0,,14.0,Traumatología,Migraña,Ninguno,196670.0
+269.0,57.0,2023-09-02,24.0,,Diabetes,Depresión,489421.0
+270.0,110.0,03/09/2023,8.0,Pediatría,Lumbalgia,Diabetes,125583.0
+271.0,174.0,,26.0,MEDICINA GENERAL,Migraña,Diabetes,306858.0
+272.0,206.0,05/09/2023,32.0,Pediatría,Gastritis,Ninguno,424371.0
+273.0,225.0,2023-09-06,28.0,Dermatología,Migraña,Depresión,402001.0
+274.0,386.0,2023-09-07,32.0,  Medicina General  ,Migraña,Diabetes,49702.0
+275.0,64.0,2023-09-08,22.0,Traumatología,Diabetes,Obesidad,350151.0
+276.0,252.0,09/09/2023,49.0,Cardiología,Dermatitis,Obesidad,132643.0
+277.0,267.0,10/09/2023,9.0,Dermatología,,Diabetes,181088.0
+278.0,390.0,2023-09-11,3.0,Oftalmología,Hipertensión,Ansiedad,247051.0
+279.0,352.0,2023-09-11,25.0,Pediatría,Fractura,Ninguno,396421.0
+280.0,332.0,12/09/2023,39.0,Ginecología,Anemia,Diabetes,~87270.0
+281.0,320.0,2023-09-13,12.0,Neurología,Anemia,Ninguno,58735.0
+282.0,357.0,,29.0,Neurología,Infección respiratoria,,80953.0
+283.0,93.0,2023-09-15,3.0,Traumatología,Hipertensión,,113021.0
+284.0,183.0,16/09/2023,41.0,GINECOLOGÍA,Hipertensión,Depresión,34453.0
+285.0,300.0,2023-09-17,46.0,Medicina General,Hipertensión,,463546.0
+286.0,214.0,2023-09-18,23.0,Neurología,Hipertensión,,162946.0
+287.0,142.0,19/09/2023,,Medicina General,Diabetes,Diabetes,92603.0
+288.0,83.0,20/09/2023,,Cardiología,Dermatitis,,320728.0
+289.0,389.0,21/09/2023,11.0,Traumatología,Diabetes,Depresión,394563.0
+290.0,99.0,22/09/2023,36.0,Oftalmología,Fractura,,377851.0
+291.0,281.0,22/09/2023,26.0,  Traumatología  ,Gastritis,Ansiedad,360760.0
+292.0,102.0,2023-09-23,8.0,Dermatología,Infección respiratoria,Ninguno,30012.0
+293.0,329.0,24/09/2023,28.0,dermatología,Diabetes,Ansiedad,392169.0
+294.0,378.0,25/09/2023,18.0,GINECOLOGÍA,Fractura,,253430.0
+295.0,71.0,2023-09-26,13.0,Medicina General,Gastritis,Obesidad,326298.0
+296.0,373.0,2023-09-27,36.0,Oftalmología,Fractura,,478430.0
+297.0,338.0,28/09/2023,42.0,  Neurología  ,Dermatitis,Hipertensión,406283.0
+,386.0,2023-09-29,40.0,Neurología,Fractura,Hipertensión,413559.0
+299.0,372.0,2023-09-30,44.0,  Pediatría  ,Lumbalgia,Ninguno,94826.0
+,266.0,01/10/2023,12.0,Oftalmología,Fractura,Depresión,~240826.0
+301.0,130.0,2023-10-02,22.0,MEDICINA GENERAL,Diabetes,Obesidad,474916.0
+302.0,60.0,03/10/2023,2.0,Neurología,Fractura,,293429.0
+303.0,301.0,2023-10-03,40.0,Dermatología,Diabetes,Ninguno,55780.0
+304.0,392.0,04/10/2023,,Dermatología,Gastritis,Depresión,367251.0
+305.0,119.0,05/10/2023,13.0,  Oftalmología  ,Lumbalgia,Ninguno,$26249.0
+306.0,263.0,2023-10-06,33.0,DERMATOLOGÍA,Gastritis,Ninguno,372437.0
+307.0,328.0,2023-10-07,3.0,Medicina General,Fractura,Ansiedad,440487.0
+308.0,21.0,2023-10-08,,Traumatología,,Diabetes,215499.0
+309.0,97.0,2023-10-09,23.0,Ginecología,Infección respiratoria,Obesidad,~209738.0
+310.0,303.0,10/10/2023,32.0,Pediatría,Control preventivo,Ansiedad,155585.0
+311.0,1.0,11/10/2023,20.0,Pediatría,Hipertensión,Depresión,439084.0
+312.0,396.0,2023-10-12,28.0,Dermatología,Lumbalgia,Diabetes,276153.0
+313.0,203.0,13/10/2023,8.0,Cardiología,Gastritis,,291734.0
+314.0,128.0,2023-10-13,3.0,Oftalmología,Lumbalgia,Hipertensión,332545.0
+315.0,350.0,14/10/2023,30.0,Medicina General,Dermatitis,,153614.0
+316.0,132.0,15/10/2023,25.0,Oftalmología,,,219229.0
+317.0,34.0,2023-10-16,30.0,Neurología,Fractura,Obesidad,372095.0
+,87.0,17/10/2023,29.0,Oftalmología,Gastritis,,492816.0
+319.0,32.0,18/10/2023,47.0,Neurología,Hipertensión,Diabetes,21981.0
+320.0,259.0,19/10/2023,,OFTALMOLOGÍA,Infección respiratoria,Ansiedad,26111.0
+321.0,324.0,2023-10-20,,Oftalmología,Fractura,Ninguno,216901.0 aprox
+322.0,313.0,2023-10-21,25.0,Ginecología,Anemia,Diabetes,331513.0
+323.0,370.0,2023-10-22,17.0,Traumatología,Hipertensión,Depresión,196250.0
+324.0,33.0,23/10/2023,24.0,DERMATOLOGÍA,Migraña,Obesidad,499821.0
+,387.0,2023-10-24,38.0,CARDIOLOGÍA,Fractura,Depresión,101703.0
+326.0,,2023-10-24,28.0,Dermatología,Fractura,Ansiedad,8923.0
+,286.0,2023-10-25,33.0,Oftalmología,Hipertensión,Hipertensión,99114.0
+328.0,326.0,26/10/2023,36.0,Oftalmología,Dermatitis,Depresión,443987.0
+329.0,49.0,2023-10-27,7.0,Cardiología,Gastritis,,76849.0
+330.0,286.0,2023-10-28,23.0,Pediatría,Migraña,Ninguno,242093.0
+331.0,82.0,2023-10-29,46.0,  Cardiología  ,Lumbalgia,,
+332.0,,2023-10-30,26.0,Pediatría,Fractura,Obesidad,334534.0
+333.0,390.0,,14.0,Pediatría,Gastritis,,32025.0
+334.0,280.0,01/11/2023,42.0,Oftalmología,Control preventivo,Ansiedad,331081.0
+335.0,371.0,2023-11-02,28.0,Medicina General,Control preventivo,Hipertensión,180602.0
+336.0,92.0,03/11/2023,24.0,Ginecología,Lumbalgia,Obesidad,463390.0
+337.0,224.0,2023-11-03,7.0,  Cardiología  ,Diabetes,Hipertensión,425199.0
+338.0,217.0,04/11/2023,48.0,Traumatología,Migraña,Obesidad,
+339.0,,05/11/2023,36.0,Traumatología,Control preventivo,Diabetes,~496481.0
+340.0,277.0,06/11/2023,39.0,Cardiología,Infección respiratoria,,30712.0
+341.0,8.0,07/11/2023,15.0,Ginecología,Lumbalgia,Diabetes,395373.0
+342.0,36.0,2023-11-08,49.0,Medicina General,Hipertensión,Diabetes,219749.0
+343.0,124.0,09/11/2023,3.0,Traumatología,Hipertensión,Ansiedad,219486.0
+,9.0,10/11/2023,48.0,,Anemia,Diabetes,89216.0
+345.0,40.0,11/11/2023,2.0,  Traumatología  ,Infección respiratoria,Ansiedad,259866.0
+346.0,179.0,12/11/2023,7.0,Oftalmología,Migraña,Ninguno,46936.0
+347.0,129.0,2023-11-13,16.0,medicina general,Control preventivo,Diabetes,310206.0
+348.0,373.0,14/11/2023,21.0,Pediatría,Diabetes,Ansiedad,124587.0
+,68.0,14/11/2023,9.0,Pediatría,Migraña,Obesidad,363805.0
+350.0,154.0,15/11/2023,12.0,Pediatría,Dermatitis,Ansiedad,
+351.0,,2023-11-16,29.0,OFTALMOLOGÍA,Migraña,Depresión,374470.0
+352.0,364.0,17/11/2023,,Medicina General,Hipertensión,Ansiedad,376122.0
+353.0,378.0,18/11/2023,33.0,Pediatría,,,102371.0
+354.0,265.0,2023-11-19,14.0,Ginecología,Control preventivo,Depresión,533400.0
+355.0,4.0,2023-11-20,43.0,Pediatría,Lumbalgia,Obesidad,186052.0
+356.0,262.0,21/11/2023,18.0,Medicina General,Control preventivo,,459939.0
+357.0,329.0,2023-11-22,5.0,,Gastritis,Ansiedad,291060.0
+358.0,282.0,2023-11-23,15.0,,Hipertensión,,
+359.0,386.0,2023-11-24,7.0,Traumatología,Anemia,Obesidad,440387.0
+360.0,370.0,24/11/2023,25.0,MEDICINA GENERAL,Gastritis,,45349900.0
+361.0,85.0,2023-11-25,14.0,Medicina General,Infección respiratoria,Depresión,266867.0
+362.0,342.0,26/11/2023,40.0,Cardiología,Diabetes,Hipertensión,272766.0
+363.0,387.0,27/11/2023,,Pediatría,Migraña,Diabetes,426215.0
+364.0,35.0,28/11/2023,35.0,Neurología,Dermatitis,Depresión,-2023525.0
+,114.0,29/11/2023,44.0,Dermatología,Fractura,Ninguno,350935.0
+366.0,59.0,2023-11-30,24.0,Neurología,Fractura,Ansiedad,304210.0
+367.0,38.0,2023-12-01,15.0,  Cardiología  ,Lumbalgia,,310521.0
+368.0,33.0,02/12/2023,11.0,Dermatología,Anemia,Obesidad,184641.0
+369.0,377.0,2023-12-03,24.0,Pediatría,Infección respiratoria,Diabetes,421254.0
+,399.0,04/12/2023,11.0,NEUROLOGÍA,Hipertensión,,310801.0
+371.0,203.0,2023-12-05,44.0,Oftalmología,Dermatitis,Ansiedad,115646.0
+372.0,202.0,05/12/2023,17.0,Pediatría,Lumbalgia,Diabetes,123722.0
+373.0,100.0,2023-12-06,,PEDIATRÍA,Infección respiratoria,Hipertensión,431493.0
+374.0,398.0,2023-12-07,21.0,Traumatología,Diabetes,Ansiedad,314725.0
+375.0,301.0,08/12/2023,8.0,Dermatología,Hipertensión,,202359.0
+,304.0,2023-12-09,15.0,Dermatología,Fractura,Obesidad,97615.0
+377.0,118.0,2023-12-10,32.0,cardiología,Diabetes,Hipertensión,307057.0
+378.0,243.0,11/12/2023,10.0,Oftalmología,Lumbalgia,Ansiedad,96234.0
+379.0,29.0,12/12/2023,,MEDICINA GENERAL,Anemia,Diabetes,2377330.0
+380.0,227.0,13/12/2023,15.0,Pediatría,Gastritis,,340368.0
+381.0,340.0,2023-12-14,12.0,Pediatría,Anemia,Hipertensión,284881.0
+382.0,213.0,15/12/2023,43.0,Neurología,Hipertensión,Obesidad,461439.0
+383.0,187.0,16/12/2023,18.0,Cardiología,Diabetes,Ansiedad,24662.0
+384.0,113.0,2023-12-16,37.0,Dermatología,Migraña,Diabetes,7174900.0
+385.0,373.0,17/12/2023,44.0,Traumatología,Anemia,,33258.0
+386.0,299.0,18/12/2023,24.0,Dermatología,Control preventivo,Diabetes,101329.0
+387.0,161.0,19/12/2023,37.0,Traumatología,Diabetes,Depresión,$66372.0
+388.0,19.0,20/12/2023,29.0,Traumatología,Lumbalgia,Hipertensión,367668.0
+389.0,264.0,21/12/2023,10.0,Dermatología,Anemia,,187841.0 aprox
+390.0,159.0,22/12/2023,14.0,,Gastritis,Ansiedad,462897.0
+391.0,11.0,23/12/2023,,  Pediatría  ,Lumbalgia,Depresión,16572.0
+392.0,8.0,2023-12-24,37.0,Traumatología,Gastritis,Diabetes,328197.0
+393.0,153.0,2023-12-25,11.0,neurología,Migraña,Hipertensión,485420.0
+394.0,113.0,,26.0,Cardiología,Control preventivo,Ninguno,92040.0
+395.0,,26/12/2023,40.0,Cardiología,Migraña,,224004.0
+396.0,38.0,2023-12-27,19.0,TRAUMATOLOGÍA,Control preventivo,Diabetes,352435.0
+397.0,135.0,2023-12-28,18.0,Pediatría,Infección respiratoria,Hipertensión,318403.0
+398.0,373.0,29/12/2023,30.0,TRAUMATOLOGÍA,Fractura,Ninguno,285183.0
+399.0,235.0,30/12/2023,32.0,cardiología,Gastritis,,166744.0
+400.0,255.0,2023-12-31,23.0,Ginecología,Infección respiratoria,Hipertensión,365459.0
+401.0,74.0,01/01/2024,12.0,Cardiología,Diabetes,Diabetes,328361.0
+402.0,328.0,,13.0,,Control preventivo,Ninguno,85586.0
+403.0,362.0,03/01/2024,21.0,Ginecología,Migraña,,482225.0
+404.0,374.0,,21.0,Pediatría,Infección respiratoria,Hipertensión,280058.0
+405.0,276.0,2024-01-05,29.0,Dermatología,Migraña,Ansiedad,265103.0
+406.0,209.0,2024-01-06,29.0,Ginecología,,Ninguno,424877.0
+407.0,267.0,06/01/2024,27.0,Neurología,Migraña,Hipertensión,322005.0
+408.0,144.0,07/01/2024,29.0,Ginecología,Hipertensión,Ansiedad,41867.0
+409.0,42.0,2024-01-08,15.0,neurología,Hipertensión,Ninguno,255762.0
+410.0,224.0,09/01/2024,47.0,Neurología,Gastritis,Hipertensión,391395.0
+411.0,346.0,2024-01-10,12.0,,,Diabetes,
+412.0,52.0,11/01/2024,41.0,Ginecología,,Ninguno,485531.0
+413.0,308.0,12/01/2024,19.0,Medicina General,Hipertensión,Ninguno,17334.0
+414.0,137.0,2024-01-13,12.0,Ginecología,Diabetes,,134303.0
+415.0,195.0,2024-01-14,23.0,NEUROLOGÍA,Lumbalgia,Ansiedad,276832.0
+416.0,95.0,2024-01-15,5.0,Traumatología,Dermatitis,Depresión,
+417.0,391.0,2024-01-16,26.0,Dermatología,Control preventivo,,140806.0
+418.0,258.0,16/01/2024,10.0,  Neurología  ,Control preventivo,Depresión,
+419.0,25.0,2024-01-17,,Pediatría,Diabetes,Hipertensión,86352.0
+420.0,232.0,2024-01-18,39.0,Oftalmología,Fractura,Diabetes,5420.0
+421.0,332.0,19/01/2024,23.0,Ginecología,Diabetes,Ansiedad,476434.0
+422.0,94.0,20/01/2024,11.0,Neurología,Control preventivo,Ninguno,198821.0
+423.0,350.0,21/01/2024,28.0,TRAUMATOLOGÍA,Dermatitis,Depresión,478957.0
+424.0,221.0,2024-01-22,31.0,oftalmología,Hipertensión,Ansiedad,142576.0
+425.0,297.0,23/01/2024,8.0,GINECOLOGÍA,Diabetes,Ansiedad,36407.0
+426.0,203.0,2024-01-24,39.0,Traumatología,Migraña,,
+427.0,343.0,25/01/2024,48.0,Oftalmología,Fractura,Ansiedad,
+428.0,81.0,26/01/2024,28.0,Oftalmología,Control preventivo,,248583.0
+429.0,205.0,27/01/2024,16.0,Traumatología,Diabetes,,~41556.0
+430.0,380.0,27/01/2024,46.0,Traumatología,Diabetes,Obesidad,328796.0
+431.0,77.0,28/01/2024,,Traumatología,Migraña,Ansiedad,95161.0
+432.0,38.0,29/01/2024,31.0,PEDIATRÍA,Lumbalgia,Obesidad,425444.0
+433.0,195.0,2024-01-30,41.0,  Medicina General  ,Hipertensión,Depresión,140641.0
+434.0,42.0,,48.0,Cardiología,,Diabetes,424615.0
+435.0,182.0,2024-02-01,,MEDICINA GENERAL,Hipertensión,,216328.0
+436.0,245.0,02/02/2024,5.0,CARDIOLOGÍA,Migraña,Depresión,300261.0
+437.0,195.0,03/02/2024,35.0,Dermatología,Control preventivo,,395833.0
+438.0,78.0,2024-02-04,25.0,Ginecología,Migraña,Diabetes,
+439.0,320.0,05/02/2024,13.0,Traumatología,Gastritis,Diabetes,411477.0
+440.0,388.0,2024-02-06,29.0,Dermatología,Infección respiratoria,,73631.0
+441.0,125.0,07/02/2024,27.0,Dermatología,Lumbalgia,Depresión,182417.0
+442.0,141.0,2024-02-07,40.0,Ginecología,Infección respiratoria,Hipertensión,239027.0
+443.0,27.0,2024-02-08,17.0,Cardiología,,,448236.0
+444.0,315.0,2024-02-09,37.0,  Pediatría  ,Dermatitis,Obesidad,16108.0
+445.0,321.0,10/02/2024,38.0,Traumatología,Hipertensión,Hipertensión,~281805.0
+446.0,281.0,11/02/2024,29.0,Oftalmología,Fractura,Obesidad,323049.0
+447.0,293.0,12/02/2024,34.0,Neurología,Gastritis,,161708.0
+448.0,242.0,2024-02-13,30.0,Ginecología,Lumbalgia,Ninguno,148791.0
+449.0,236.0,14/02/2024,31.0,Oftalmología,Infección respiratoria,,247782.0
+450.0,203.0,15/02/2024,22.0,Ginecología,Diabetes,Ansiedad,97615.0
+451.0,380.0,16/02/2024,46.0,  Oftalmología  ,Gastritis,,236719.0
+452.0,327.0,17/02/2024,,DERMATOLOGÍA,Hipertensión,Depresión,383688.0
+453.0,142.0,17/02/2024,4.0,,Gastritis,,423471.0
+454.0,94.0,2024-02-18,35.0,Oftalmología,Control preventivo,,195655.0
+,152.0,2024-02-19,41.0,Traumatología,Diabetes,Ninguno,310564.0
+456.0,253.0,20/02/2024,44.0,Oftalmología,Dermatitis,Depresión,5010.0
+457.0,67.0,2024-02-21,9.0,Pediatría,Diabetes,Hipertensión,277424.0 aprox
+458.0,176.0,2024-02-22,,Traumatología,Dermatitis,,487742.0
+459.0,103.0,2024-02-23,27.0,Neurología,Control preventivo,,159571.0
+460.0,91.0,2024-02-24,27.0,Neurología,Dermatitis,,299414.0
+461.0,193.0,2024-02-25,18.0,Dermatología,Diabetes,Hipertensión,382330.0
+462.0,166.0,2024-02-26,30.0,Oftalmología,Dermatitis,Ansiedad,306422.0
+463.0,90.0,27/02/2024,45.0,  Medicina General  ,Anemia,Ansiedad,212157.0
+464.0,326.0,2024-02-28,46.0,Dermatología,Migraña,Obesidad,80525.0
+465.0,315.0,2024-02-28,31.0,pediatría,Dermatitis,Hipertensión,234532.0
+466.0,268.0,2024-02-29,42.0,Cardiología,Diabetes,,150918.0
+467.0,51.0,2024-03-01,3.0,Neurología,Migraña,Diabetes,349481.0
+468.0,166.0,2024-03-02,29.0,Medicina General,Migraña,,223747.0
+469.0,174.0,03/03/2024,7.0,Neurología,Diabetes,Ansiedad,425690.0
+470.0,227.0,2024-03-04,18.0,Pediatría,Fractura,Obesidad,100695.0
+471.0,266.0,05/03/2024,16.0,Pediatría,Control preventivo,,211771.0
+472.0,9.0,2024-03-06,49.0,Oftalmología,Hipertensión,Diabetes,280965.0
+473.0,87.0,2024-03-07,32.0,  Neurología  ,Hipertensión,Diabetes,67377.0
+474.0,94.0,2024-03-08,38.0,Dermatología,Migraña,,$296015.0
+475.0,52.0,09/03/2024,25.0,,Control preventivo,Diabetes,149006.0
+476.0,179.0,09/03/2024,44.0,,Dermatitis,Ninguno,118621.0
+477.0,278.0,10/03/2024,32.0,dermatología,Anemia,Ansiedad,75246.0
+478.0,239.0,,19.0,Neurología,Lumbalgia,Ninguno,178192.0
+479.0,73.0,2024-03-12,3.0,Dermatología,Fractura,Ninguno,464846.0
+480.0,339.0,13/03/2024,35.0,Oftalmología,Infección respiratoria,Ansiedad,20348.0
+481.0,72.0,14/03/2024,29.0,,Control preventivo,Hipertensión,426817.0
+482.0,374.0,15/03/2024,11.0,  Traumatología  ,Fractura,Depresión,201694.0
+483.0,68.0,2024-03-16,6.0,Traumatología,,Obesidad,282993.0
+484.0,5.0,2024-03-17,19.0,Dermatología,Lumbalgia,,258842.0
+485.0,339.0,2024-03-18,37.0,Dermatología,,Depresión,463241.0
+486.0,238.0,2024-03-19,45.0,Ginecología,Lumbalgia,,386214.0
+487.0,121.0,2024-03-20,27.0,Ginecología,Lumbalgia,Depresión,492488.0
+488.0,211.0,2024-03-20,5.0,Cardiología,,Depresión,398243.0
+489.0,262.0,2024-03-21,26.0,Oftalmología,Lumbalgia,Ansiedad,151465.0
+490.0,325.0,2024-03-22,35.0,Traumatología,Control preventivo,Depresión,481627.0
+491.0,58.0,23/03/2024,19.0,Cardiología,Infección respiratoria,,491865.0
+492.0,43.0,2024-03-24,17.0,Ginecología,Fractura,,
+493.0,197.0,2024-03-25,35.0,Ginecología,Control preventivo,Hipertensión,451017.0
+494.0,72.0,26/03/2024,47.0,Pediatría,Fractura,Ansiedad,333780.0
+495.0,91.0,2024-03-27,49.0,  Neurología  ,Migraña,Depresión,461387.0
+496.0,37.0,2024-03-28,13.0,Ginecología,Diabetes,Diabetes,~458291.0
+497.0,314.0,2024-03-29,14.0,Traumatología,Diabetes,,446230.0
+498.0,237.0,2024-03-30,30.0,Dermatología,Infección respiratoria,Ansiedad,443211.0
+499.0,383.0,30/03/2024,48.0,Oftalmología,Anemia,Hipertensión,63235.0
+500.0,293.0,2024-03-31,43.0,Medicina General,Control preventivo,Depresión,76040.0
+501.0,154.0,2024-04-01,17.0,Ginecología,Infección respiratoria,Ninguno,63301.0
+502.0,170.0,2024-04-02,37.0,PEDIATRÍA,Infección respiratoria,Ansiedad,50059.0
+503.0,272.0,03/04/2024,15.0,Neurología,Fractura,,179876.0
+504.0,110.0,04/04/2024,18.0,  Medicina General  ,Anemia,,343559.0
+505.0,151.0,05/04/2024,48.0,  Cardiología  ,Migraña,Diabetes,180573.0
+506.0,131.0,06/04/2024,14.0,,Hipertensión,,361549.0
+507.0,,,14.0,cardiología,Migraña,Ansiedad,411040.0
+508.0,23.0,2024-04-08,,Cardiología,Lumbalgia,Ninguno,334776.0
+509.0,367.0,09/04/2024,33.0,Dermatología,Lumbalgia,Ansiedad,235227.0
+510.0,139.0,10/04/2024,,Cardiología,Migraña,Diabetes,151281.0
+511.0,308.0,10/04/2024,,Ginecología,Migraña,Hipertensión,66580.0
+512.0,239.0,11/04/2024,11.0,Medicina General,Infección respiratoria,Diabetes,249358.0
+513.0,192.0,12/04/2024,48.0,Pediatría,Diabetes,Hipertensión,361201.0
+514.0,127.0,13/04/2024,26.0,oftalmología,Control preventivo,Diabetes,276380.0
+515.0,29.0,14/04/2024,3.0,Ginecología,Lumbalgia,Obesidad,~362134.0
+516.0,121.0,15/04/2024,25.0,Dermatología,Anemia,Ansiedad,~170934.0
+517.0,198.0,2024-04-16,17.0,PEDIATRÍA,Migraña,,38064.0
+518.0,174.0,17/04/2024,22.0,Cardiología,Dermatitis,Ansiedad,386693.0
+519.0,144.0,18/04/2024,,Traumatología,Fractura,Ninguno,113763.0
+520.0,179.0,2024-04-19,46.0,Neurología,Hipertensión,Obesidad,310061.0
+521.0,357.0,20/04/2024,26.0,Dermatología,Gastritis,Ninguno,403125.0
+522.0,11.0,2024-04-21,34.0,Cardiología,Anemia,Ansiedad,
+523.0,139.0,2024-04-21,26.0,Dermatología,Fractura,Ninguno,301255.0
+524.0,253.0,2024-04-22,9.0,Traumatología,Diabetes,Hipertensión,
+525.0,,23/04/2024,40.0,Oftalmología,Fractura,Obesidad,374533.0
+526.0,314.0,2024-04-24,11.0,Medicina General,Dermatitis,,78095.0
+527.0,19.0,25/04/2024,7.0,Ginecología,Diabetes,Diabetes,413433.0
+528.0,160.0,26/04/2024,30.0,Medicina General,Control preventivo,Hipertensión,51604.0
+529.0,306.0,2024-04-27,2.0,Neurología,Infección respiratoria,Depresión,262194.0
+530.0,122.0,2024-04-28,30.0,Medicina General,Lumbalgia,Diabetes,224489.0
+531.0,72.0,2024-04-29,4.0,Oftalmología,,Ninguno,114774.0
+532.0,55.0,30/04/2024,14.0,GINECOLOGÍA,Dermatitis,Ansiedad,154456.0
+533.0,,01/05/2024,13.0,Ginecología,Infección respiratoria,Hipertensión,86396.0
+534.0,,01/05/2024,25.0,Oftalmología,Dermatitis,Obesidad,215734.0
+535.0,70.0,2024-05-02,13.0,Traumatología,Gastritis,Diabetes,22578.0
+536.0,149.0,03/05/2024,13.0,pediatría,Diabetes,Depresión,
+537.0,117.0,2024-05-04,37.0,Oftalmología,,Hipertensión,85926.0
+538.0,26.0,05/05/2024,44.0,Traumatología,Anemia,,
+539.0,,06/05/2024,,Traumatología,Lumbalgia,,432471.0
+540.0,385.0,07/05/2024,26.0,Cardiología,Infección respiratoria,Ansiedad,228580.0
+541.0,209.0,2024-05-08,14.0,Oftalmología,Fractura,Obesidad,251374.0
+542.0,227.0,09/05/2024,,MEDICINA GENERAL,Anemia,Obesidad,154447.0
+543.0,114.0,10/05/2024,24.0,Dermatología,Diabetes,Diabetes,498453.0
+544.0,194.0,2024-05-11,22.0,ginecología,Anemia,Hipertensión,337032.0
+545.0,321.0,2024-05-12,40.0,,Gastritis,Hipertensión,476145.0
+546.0,10.0,2024-05-12,39.0,Pediatría,Infección respiratoria,Obesidad,210324.0
+,95.0,2024-05-13,49.0,GINECOLOGÍA,Gastritis,,442093.0
+548.0,121.0,2024-05-14,21.0,Dermatología,Control preventivo,Ninguno,226876.0
+,126.0,2024-05-15,43.0,CARDIOLOGÍA,Migraña,Obesidad,434080.0
+550.0,37.0,16/05/2024,26.0,Oftalmología,Infección respiratoria,Ansiedad,69809.0
+551.0,69.0,2024-05-17,10.0,Cardiología,Control preventivo,Hipertensión,32024300.0
+552.0,297.0,2024-05-18,13.0,Pediatría,,,340958.0
+553.0,174.0,19/05/2024,42.0,Dermatología,Migraña,Diabetes,329804.0
+554.0,45.0,2024-05-20,14.0,Pediatría,Lumbalgia,Hipertensión,226279.0
+555.0,123.0,2024-05-21,9.0,  Pediatría  ,Dermatitis,,343538.0
+556.0,382.0,2024-05-22,7.0,Medicina General,Infección respiratoria,Obesidad,
+557.0,27.0,,39.0,oftalmología,Migraña,Ansiedad,299945.0
+558.0,193.0,23/05/2024,31.0,Dermatología,Lumbalgia,Ninguno,279346.0
+559.0,340.0,24/05/2024,16.0,Medicina General,Anemia,,16257800.0
+560.0,136.0,25/05/2024,8.0,Ginecología,Infección respiratoria,,390538.0
+561.0,195.0,2024-05-26,48.0,Medicina General,Dermatitis,Hipertensión,45032.0
+562.0,49.0,27/05/2024,15.0,Ginecología,Gastritis,Obesidad,89863.0
+563.0,96.0,2024-05-28,25.0,Neurología,Anemia,,238219.0
+564.0,121.0,2024-05-29,47.0,Medicina General,Anemia,Obesidad,446410.0
+565.0,249.0,2024-05-30,,Traumatología,Infección respiratoria,,289704.0
+566.0,217.0,31/05/2024,41.0,  Cardiología  ,Diabetes,Ansiedad,421823.0
+567.0,114.0,,15.0,Cardiología,Lumbalgia,Obesidad,261197.0
+568.0,14.0,02/06/2024,25.0,Traumatología,,,393801.0
+569.0,62.0,2024-06-02,7.0,  Ginecología  ,Gastritis,Obesidad,166270.0
+570.0,43.0,03/06/2024,26.0,Ginecología,Fractura,Obesidad,408495.0
+571.0,240.0,04/06/2024,8.0,Oftalmología,,Hipertensión,203835.0
+572.0,,05/06/2024,18.0,Pediatría,Anemia,Obesidad,281621.0
+573.0,27.0,2024-06-06,21.0,Dermatología,,Ansiedad,92061.0
+574.0,324.0,07/06/2024,16.0,Dermatología,Hipertensión,Depresión,460614.0
+575.0,383.0,08/06/2024,47.0,DERMATOLOGÍA,Dermatitis,Hipertensión,
+576.0,,09/06/2024,3.0,Medicina General,Infección respiratoria,,430133.0
+577.0,240.0,2024-06-10,1.0,Dermatología,Hipertensión,Depresión,107892.0
+578.0,304.0,2024-06-11,13.0,  Dermatología  ,Infección respiratoria,Obesidad,38504.0
+579.0,67.0,12/06/2024,32.0,Ginecología,Dermatitis,Ninguno,171919.0
+580.0,281.0,2024-06-12,12.0,Dermatología,Dermatitis,Depresión,260759.0
+,192.0,2024-06-13,31.0,Cardiología,Anemia,Ansiedad,402173.0
+582.0,119.0,14/06/2024,41.0,Traumatología,Lumbalgia,Ninguno,201875.0
+583.0,152.0,2024-06-15,2.0,Neurología,Hipertensión,Ansiedad,138629.0
+584.0,265.0,16/06/2024,,Ginecología,Control preventivo,,189410.0
+585.0,392.0,2024-06-17,8.0,Pediatría,Dermatitis,Ninguno,353286.0
+586.0,,18/06/2024,25.0,  Traumatología  ,Infección respiratoria,Obesidad,171428.0
+587.0,351.0,19/06/2024,5.0,Dermatología,Fractura,Ninguno,489687.0
+588.0,249.0,2024-06-20,45.0,Pediatría,Infección respiratoria,,91615.0
+589.0,59.0,2024-06-21,2.0,Pediatría,Lumbalgia,Depresión,377783.0
+,17.0,2024-06-22,42.0,Traumatología,Fractura,Ninguno,296636.0
+591.0,171.0,23/06/2024,38.0,Traumatología,Infección respiratoria,Ansiedad,120382.0
+592.0,351.0,2024-06-23,39.0,Traumatología,Diabetes,Obesidad,$378039.0
+593.0,132.0,2024-06-24,3.0,Ginecología,Infección respiratoria,Ansiedad,226532.0
+594.0,357.0,2024-06-25,46.0,GINECOLOGÍA,Control preventivo,Obesidad,342787.0
+595.0,136.0,26/06/2024,,  Neurología  ,Migraña,Depresión,332817.0
+596.0,42.0,2024-06-27,38.0,Traumatología,Anemia,Diabetes,59768.0
+597.0,305.0,28/06/2024,22.0,  Neurología  ,Dermatitis,Hipertensión,420792.0
+598.0,6.0,29/06/2024,40.0,Medicina General,Lumbalgia,Depresión,342330.0
+599.0,329.0,30/06/2024,,  Oftalmología  ,Hipertensión,,391390.0
+600.0,170.0,2024-07-01,32.0,Cardiología,Infección respiratoria,Depresión,226644.0
+601.0,288.0,02/07/2024,47.0,Oftalmología,Diabetes,Hipertensión,101556.0
+602.0,399.0,2024-07-03,17.0,Neurología,Diabetes,Ansiedad,166476.0
+603.0,338.0,2024-07-04,18.0,cardiología,Hipertensión,Depresión,451227.0
+,215.0,04/07/2024,,Dermatología,Dermatitis,Obesidad,469319.0
+605.0,69.0,05/07/2024,6.0,Medicina General,Dermatitis,Ninguno,24352400.0
+606.0,370.0,2024-07-06,49.0,Pediatría,Infección respiratoria,Depresión,152904.0
+607.0,27.0,07/07/2024,13.0,Traumatología,Gastritis,Hipertensión,366504.0
+608.0,225.0,08/07/2024,31.0,Dermatología,Migraña,Depresión,384167.0
+609.0,322.0,,17.0,Pediatría,Anemia,Ansiedad,408656.0
+610.0,234.0,10/07/2024,21.0,Ginecología,Migraña,Ansiedad,20386.0
+611.0,51.0,,16.0,CARDIOLOGÍA,Anemia,Ansiedad,9818.0
+612.0,149.0,12/07/2024,17.0,Pediatría,,Obesidad,181792.0
+613.0,75.0,2024-07-13,32.0,OFTALMOLOGÍA,Diabetes,,80486.0
+614.0,306.0,14/07/2024,1.0,Traumatología,Anemia,,403466.0
+615.0,92.0,14/07/2024,48.0,Traumatología,Anemia,Depresión,268758.0
+616.0,368.0,15/07/2024,38.0,Oftalmología,Lumbalgia,Ansiedad,413547.0
+617.0,68.0,16/07/2024,8.0,Neurología,Migraña,Diabetes,92572.0
+618.0,235.0,17/07/2024,1.0,Neurología,Infección respiratoria,Ninguno,315475.0
+619.0,362.0,2024-07-18,2.0,Ginecología,Anemia,,292185.0
+620.0,144.0,2024-07-19,,Cardiología,Gastritis,Ansiedad,
+621.0,,20/07/2024,,  Traumatología  ,Diabetes,,260955.0
+622.0,86.0,2024-07-21,24.0,Medicina General,Control preventivo,Obesidad,296569.0
+623.0,227.0,2024-07-22,27.0,Dermatología,Infección respiratoria,Ninguno,445296.0
+624.0,363.0,2024-07-23,20.0,Cardiología,Migraña,Ninguno,32541.0
+625.0,56.0,2024-07-24,47.0,Cardiología,Dermatitis,Hipertensión,412570.0
+626.0,80.0,2024-07-25,21.0,Pediatría,Migraña,Ansiedad,490177.0
+627.0,24.0,2024-07-25,42.0,Cardiología,Lumbalgia,Ansiedad,367229.0
+628.0,227.0,2024-07-26,37.0,Ginecología,Infección respiratoria,Depresión,369987.0
+629.0,28.0,2024-07-27,35.0,Oftalmología,Diabetes,Obesidad,112897.0
+630.0,121.0,2024-07-28,38.0,Dermatología,Lumbalgia,Diabetes,263921.0
+631.0,93.0,2024-07-29,15.0,  Medicina General  ,Hipertensión,Depresión,354440.0
+632.0,341.0,2024-07-30,46.0,Pediatría,Diabetes,Diabetes,303129.0
+633.0,112.0,31/07/2024,42.0,Dermatología,Anemia,Hipertensión,195640.0
+634.0,378.0,2024-08-01,30.0,,Hipertensión,,470359.0
+635.0,345.0,2024-08-02,4.0,Oftalmología,Dermatitis,,259423.0
+636.0,31.0,2024-08-03,43.0,Neurología,,Diabetes,485089.0
+637.0,143.0,04/08/2024,,Cardiología,Diabetes,,284118.0
+638.0,367.0,04/08/2024,15.0,Ginecología,Fractura,Obesidad,397725.0
+639.0,298.0,2024-08-05,23.0,Traumatología,Fractura,,372301.0
+,227.0,2024-08-06,41.0,Neurología,Control preventivo,Hipertensión,332108.0
+,358.0,07/08/2024,15.0,Traumatología,Hipertensión,Ansiedad,12158.0
+642.0,250.0,2024-08-08,26.0,Dermatología,Gastritis,Diabetes,43327.0
+643.0,50.0,2024-08-09,12.0,Medicina General,Infección respiratoria,Obesidad,292835.0
+644.0,214.0,2024-08-10,18.0,Traumatología,Migraña,Obesidad,456332.0
+645.0,380.0,2024-08-11,6.0,Ginecología,Anemia,Ansiedad,302565.0
+646.0,389.0,,18.0,Dermatología,Dermatitis,,121818.0
+647.0,269.0,2024-08-13,24.0,PEDIATRÍA,Fractura,Obesidad,163508.0
+648.0,288.0,14/08/2024,38.0,Cardiología,Gastritis,Hipertensión,313464.0
+649.0,195.0,15/08/2024,28.0,Medicina General,Gastritis,Hipertensión,
+650.0,254.0,2024-08-15,15.0,oftalmología,Hipertensión,Depresión,478073.0
+651.0,79.0,16/08/2024,19.0,Ginecología,Control preventivo,Ninguno,266897.0
+652.0,244.0,17/08/2024,5.0,Ginecología,Anemia,Ansiedad,180732.0
+653.0,91.0,18/08/2024,4.0,Medicina General,Gastritis,,264871.0
+654.0,6.0,19/08/2024,17.0,Pediatría,Dermatitis,Obesidad,394186.0
+655.0,281.0,20/08/2024,10.0,MEDICINA GENERAL,Hipertensión,Diabetes,272480.0
+656.0,150.0,2024-08-21,12.0,Dermatología,Lumbalgia,Depresión,166396.0
+657.0,324.0,22/08/2024,5.0,  Medicina General  ,Dermatitis,Hipertensión,172617.0
+,399.0,2024-08-23,7.0,,Migraña,Ansiedad,379622.0
+659.0,282.0,24/08/2024,44.0,medicina general,Control preventivo,,37892.0
+660.0,191.0,25/08/2024,23.0,Oftalmología,Anemia,Ansiedad,141004.0
+661.0,274.0,26/08/2024,,Dermatología,Control preventivo,,4037700.0
+662.0,73.0,26/08/2024,30.0,,Control preventivo,Hipertensión,472614.0
+663.0,318.0,27/08/2024,49.0,Cardiología,Hipertensión,Ninguno,49597.0
+,68.0,2024-08-28,45.0,Traumatología,Control preventivo,Ansiedad,38030100.0
+665.0,304.0,29/08/2024,37.0,  Neurología  ,Infección respiratoria,Obesidad,317061.0
+666.0,63.0,,5.0,Medicina General,Dermatitis,Diabetes,318238.0
+667.0,134.0,31/08/2024,20.0,Pediatría,Anemia,Diabetes,382899.0
+668.0,307.0,2024-09-01,,Ginecología,,Hipertensión,203242.0
+669.0,268.0,2024-09-02,44.0,Pediatría,Lumbalgia,Ansiedad,203368.0
+670.0,223.0,2024-09-03,44.0,DERMATOLOGÍA,Control preventivo,Diabetes,147909.0
+671.0,126.0,04/09/2024,39.0,CARDIOLOGÍA,Control preventivo,,300886.0
+672.0,265.0,05/09/2024,6.0,Medicina General,Migraña,,465254.0
+673.0,7.0,05/09/2024,29.0,,Control preventivo,Ninguno,462372.0
+674.0,206.0,2024-09-06,10.0,Traumatología,Control preventivo,,352966.0
+675.0,179.0,07/09/2024,16.0,Cardiología,Dermatitis,Obesidad,453562.0
+676.0,183.0,2024-09-08,34.0,CARDIOLOGÍA,Dermatitis,Depresión,481942.0
+677.0,228.0,2024-09-09,31.0,Dermatología,Fractura,Hipertensión,398577.0
+678.0,236.0,10/09/2024,36.0,neurología,,Depresión,206877.0
+679.0,146.0,2024-09-11,41.0,Ginecología,Dermatitis,Ninguno,244196.0
+680.0,58.0,2024-09-12,5.0,Pediatría,,Obesidad,465972.0
+,296.0,2024-09-13,33.0,Neurología,Gastritis,Depresión,336654.0
+682.0,241.0,14/09/2024,43.0,,Migraña,Obesidad,411244.0
+,345.0,2024-09-15,19.0,,Lumbalgia,,62476.0
+684.0,287.0,2024-09-16,32.0,Cardiología,,Ansiedad,100981.0
+685.0,163.0,2024-09-16,23.0,Oftalmología,Fractura,Hipertensión,175334.0
+686.0,26.0,,3.0,Ginecología,Control preventivo,Obesidad,98179.0
+687.0,106.0,2024-09-18,1.0,Cardiología,Dermatitis,Diabetes,453700.0
+688.0,240.0,19/09/2024,36.0,Cardiología,Fractura,Ninguno,112361.0
+689.0,340.0,2024-09-20,41.0,Traumatología,Control preventivo,,280806.0
+690.0,332.0,2024-09-21,28.0,Pediatría,Infección respiratoria,Obesidad,47300.0
+691.0,400.0,2024-09-22,,Traumatología,Hipertensión,,81706.0
+692.0,379.0,2024-09-23,39.0,Pediatría,Control preventivo,,127470.0
+693.0,,2024-09-24,5.0,Ginecología,Gastritis,Diabetes,491532.0
+694.0,133.0,2024-09-25,13.0,Ginecología,Diabetes,Ninguno,399547.0
+695.0,317.0,26/09/2024,11.0,OFTALMOLOGÍA,Control preventivo,Ansiedad,338410.0
+696.0,44.0,,46.0,traumatología,Anemia,Depresión,458550.0
+697.0,35.0,2024-09-27,22.0,  Traumatología  ,Diabetes,Ninguno,478323.0
+698.0,364.0,28/09/2024,,Traumatología,Infección respiratoria,Ninguno,229519.0
+699.0,347.0,2024-09-29,23.0,ginecología,Anemia,Diabetes,167206.0
+700.0,384.0,2024-09-30,12.0,Ginecología,Anemia,Diabetes,161081.0
+701.0,1.0,01/10/2024,21.0,Dermatología,Infección respiratoria,Obesidad,22686.0
+702.0,226.0,2024-10-02,19.0,Traumatología,Fractura,Depresión,143421.0
+703.0,299.0,03/10/2024,5.0,Oftalmología,Migraña,Ninguno,180748.0
+704.0,288.0,04/10/2024,24.0,Neurología,Infección respiratoria,Ninguno,~23265.0
+705.0,236.0,05/10/2024,30.0,Neurología,Gastritis,Diabetes,~441889.0
+,359.0,,8.0,Cardiología,Diabetes,,
+707.0,,2024-10-07,2.0,  Medicina General  ,Control preventivo,Ansiedad,129493.0
+708.0,95.0,07/10/2024,49.0,Traumatología,Migraña,,402267.0
+709.0,205.0,08/10/2024,34.0,Medicina General,Diabetes,Diabetes,399125.0
+710.0,109.0,2024-10-09,23.0,Medicina General,Infección respiratoria,Ansiedad,170831.0
+711.0,322.0,2024-10-10,3.0,cardiología,Migraña,Depresión,350049.0
+712.0,30.0,11/10/2024,24.0,Medicina General,Anemia,,148480.0
+713.0,266.0,2024-10-12,18.0,Oftalmología,Fractura,Diabetes,39787.0
+714.0,23.0,13/10/2024,47.0,Ginecología,Hipertensión,Depresión,
+715.0,97.0,14/10/2024,37.0,,Hipertensión,Hipertensión,221972.0
+,39.0,2024-10-15,49.0,GINECOLOGÍA,Infección respiratoria,Ninguno,73386.0
+717.0,173.0,2024-10-16,31.0,Ginecología,Lumbalgia,Depresión,247824.0
+718.0,248.0,2024-10-17,14.0,NEUROLOGÍA,Fractura,Ansiedad,474941.0
+719.0,379.0,17/10/2024,1.0,Ginecología,Hipertensión,Hipertensión,
+720.0,162.0,2024-10-18,14.0,Medicina General,Lumbalgia,Ansiedad,370742.0
+721.0,180.0,2024-10-19,41.0,Pediatría,Anemia,Obesidad,379988.0
+722.0,103.0,20/10/2024,5.0,Oftalmología,Migraña,Obesidad,373594.0
+723.0,209.0,2024-10-21,31.0,Traumatología,Hipertensión,Ninguno,14851.0
+724.0,22.0,2024-10-22,,oftalmología,Anemia,Hipertensión,462722.0
+725.0,5.0,2024-10-23,30.0,  Oftalmología  ,Anemia,Hipertensión,415918.0
+726.0,139.0,24/10/2024,36.0,TRAUMATOLOGÍA,Migraña,Obesidad,140917.0
+727.0,214.0,2024-10-25,1.0,Medicina General,Hipertensión,Ninguno,278608.0
+728.0,160.0,2024-10-26,3.0,Cardiología,Anemia,Depresión,309428.0
+729.0,395.0,27/10/2024,20.0,PEDIATRÍA,Anemia,Obesidad,70313.0
+730.0,139.0,2024-10-28,43.0,Cardiología,,Hipertensión,130712.0
+731.0,145.0,28/10/2024,48.0,Cardiología,Diabetes,Ansiedad,16509.0
+732.0,160.0,2024-10-29,43.0,Medicina General,Fractura,,432656.0
+733.0,83.0,2024-10-30,21.0,Dermatología,Diabetes,Hipertensión,17328.0
+734.0,155.0,2024-10-31,30.0,Medicina General,Dermatitis,Ninguno,$162754.0
+735.0,288.0,01/11/2024,42.0,NEUROLOGÍA,Fractura,Hipertensión,43732.0
+736.0,317.0,02/11/2024,,Dermatología,Migraña,Diabetes,391796.0
+737.0,281.0,03/11/2024,30.0,ginecología,Control preventivo,Hipertensión,462866.0
+738.0,64.0,2024-11-04,5.0,Pediatría,Diabetes,,
+739.0,,,10.0,Dermatología,Diabetes,Obesidad,74086.0
+,156.0,06/11/2024,,Medicina General,Lumbalgia,Depresión,281290.0
+741.0,91.0,07/11/2024,45.0,Medicina General,Gastritis,Diabetes,~386319.0
+742.0,142.0,2024-11-08,39.0,  Cardiología  ,Dermatitis,Hipertensión,360616.0
+743.0,42.0,2024-11-08,48.0,  Medicina General  ,Control preventivo,Depresión,372151.0
+744.0,249.0,2024-11-09,6.0,Ginecología,Gastritis,,143191.0
+,295.0,10/11/2024,10.0,Neurología,Hipertensión,Depresión,41500.0
+746.0,258.0,2024-11-11,42.0,Medicina General,Lumbalgia,Hipertensión,78737.0
+747.0,337.0,2024-11-12,43.0,Traumatología,Anemia,,477976.0
+,1.0,13/11/2024,10.0,Traumatología,Anemia,,308689.0
+749.0,109.0,14/11/2024,25.0,Cardiología,Gastritis,Ninguno,365310.0
+750.0,125.0,15/11/2024,14.0,Dermatología,Gastritis,Obesidad,450037.0
+751.0,64.0,2024-11-16,47.0,Dermatología,Anemia,Diabetes,427114.0
+752.0,206.0,2024-11-17,39.0,Traumatología,,Ansiedad,113109.0
+753.0,338.0,2024-11-18,13.0,Neurología,Anemia,Diabetes,33740.0
+754.0,244.0,18/11/2024,11.0,Pediatría,Infección respiratoria,Hipertensión,462938.0
+755.0,78.0,19/11/2024,39.0,Ginecología,Dermatitis,Ansiedad,490926.0
+756.0,111.0,20/11/2024,11.0,Oftalmología,Diabetes,Ansiedad,285835.0
+757.0,142.0,2024-11-21,46.0,Ginecología,Anemia,Diabetes,
+758.0,216.0,2024-11-22,49.0,GINECOLOGÍA,Infección respiratoria,,$119749.0
+759.0,16.0,23/11/2024,16.0,Neurología,Anemia,Diabetes,59964.0
+,54.0,24/11/2024,33.0,Traumatología,Control preventivo,Diabetes,252409.0
+761.0,141.0,25/11/2024,41.0,Ginecología,Hipertensión,Diabetes,406536.0
+762.0,380.0,2024-11-26,41.0,Neurología,Infección respiratoria,,329054.0
+763.0,336.0,2024-11-27,32.0,Pediatría,Dermatitis,,
+764.0,79.0,2024-11-28,10.0,Dermatología,Fractura,Obesidad,13642.0
+765.0,149.0,2024-11-29,15.0,,Infección respiratoria,Ninguno,162159.0
+766.0,127.0,2024-11-29,16.0,Oftalmología,Migraña,Ninguno,470050.0
+767.0,158.0,2024-11-30,43.0,Medicina General,Migraña,Diabetes,71465.0
+768.0,279.0,01/12/2024,27.0,Ginecología,Fractura,Ninguno,364551.0
+769.0,38.0,2024-12-02,49.0,Pediatría,Gastritis,Diabetes,380859.0
+770.0,157.0,03/12/2024,45.0,Pediatría,Migraña,Diabetes,367752.0
+771.0,333.0,04/12/2024,32.0,PEDIATRÍA,Gastritis,Diabetes,494696.0
+772.0,288.0,2024-12-05,6.0,Dermatología,Anemia,Depresión,207558.0
+773.0,112.0,2024-12-06,47.0,Neurología,Anemia,Obesidad,342686.0
+774.0,190.0,2024-12-07,48.0,cardiología,Diabetes,Hipertensión,100859.0
+775.0,106.0,2024-12-08,36.0,Ginecología,Migraña,Ninguno,-1014280.0
+776.0,,09/12/2024,8.0,Medicina General,Fractura,Ninguno,248322.0
+777.0,354.0,2024-12-09,25.0,GINECOLOGÍA,Diabetes,Obesidad,111340.0
+778.0,301.0,2024-12-10,7.0,Traumatología,Dermatitis,Obesidad,453871.0
+779.0,49.0,11/12/2024,17.0,Oftalmología,Infección respiratoria,Diabetes,359518.0
+780.0,161.0,2024-12-12,48.0,Neurología,Migraña,,145460.0
+781.0,4.0,2024-12-13,30.0,  Pediatría  ,Lumbalgia,Depresión,71803.0
+782.0,198.0,14/12/2024,2.0,,Fractura,Depresión,147494.0
+783.0,320.0,2024-12-15,17.0,Ginecología,Fractura,Hipertensión,313378.0
+784.0,364.0,16/12/2024,4.0,Dermatología,Dermatitis,,414072.0
+785.0,377.0,2024-12-17,26.0,Pediatría,Migraña,Obesidad,254068.0
+786.0,254.0,2024-12-18,14.0,Neurología,,Hipertensión,55735.0
+787.0,90.0,2024-12-19,8.0,TRAUMATOLOGÍA,Migraña,Ninguno,128411.0
+788.0,312.0,2024-12-20,5.0,  Oftalmología  ,Control preventivo,Hipertensión,
+789.0,20.0,2024-12-20,5.0,Medicina General,Gastritis,,319887.0
+790.0,77.0,21/12/2024,,Pediatría,Fractura,,127088.0
+791.0,220.0,22/12/2024,,Ginecología,Anemia,Diabetes,120795.0
+792.0,162.0,2024-12-23,5.0,Ginecología,Hipertensión,,146670.0
+,343.0,,3.0,Oftalmología,Gastritis,Diabetes,298302.0
+794.0,394.0,2024-12-25,38.0,Dermatología,Control preventivo,Ninguno,248852.0
+,115.0,,30.0,Oftalmología,Fractura,Depresión,421610.0
+796.0,94.0,2024-12-27,1.0,Dermatología,Anemia,Ninguno,350476.0
+797.0,133.0,2024-12-28,8.0,  Cardiología  ,Lumbalgia,Diabetes,335077.0
+798.0,172.0,2024-12-29,13.0,Dermatología,Control preventivo,Depresión,81552.0
+799.0,114.0,2024-12-30,20.0,Cardiología,Diabetes,,
+800.0,9.0,2024-12-31,6.0,Medicina General,Hipertensión,Ansiedad,257449.0
+321.0,324.0,2023-10-20,,Oftalmología,Fractura,Ninguno,216901.0 aprox
+570.0,43.0,03/06/2024,26.0,Ginecología,Fractura,Obesidad,408495.0
+25.0,294.0,2023-01-22,21.0,Neurología,Control preventivo,Depresión,359213.0
+260.0,392.0,2023-08-25,17.0,Dermatología,,Ansiedad,45134.0
+497.0,314.0,2024-03-29,14.0,Traumatología,Diabetes,,446230.0
+213.0,,2023-07-13,45.0,Traumatología,Diabetes,Diabetes,$433333.0
+115.0,316.0,,38.0,Dermatología,Lumbalgia,,199149.0
+452.0,327.0,17/02/2024,,DERMATOLOGÍA,Hipertensión,Depresión,383688.0
+700.0,384.0,2024-09-30,12.0,Ginecología,Anemia,Diabetes,161081.0
+772.0,288.0,2024-12-05,6.0,Dermatología,Anemia,Depresión,207558.0
+648.0,288.0,14/08/2024,38.0,Cardiología,Gastritis,Hipertensión,313464.0
+490.0,325.0,2024-03-22,35.0,Traumatología,Control preventivo,Depresión,481627.0
+602.0,399.0,2024-07-03,17.0,Neurología,Diabetes,Ansiedad,166476.0
+733.0,83.0,2024-10-30,21.0,Dermatología,Diabetes,Hipertensión,17328.0
+528.0,160.0,26/04/2024,30.0,Medicina General,Control preventivo,Hipertensión,51604.0
+659.0,282.0,24/08/2024,44.0,medicina general,Control preventivo,,37892.0
+385.0,373.0,17/12/2023,44.0,Traumatología,Anemia,,33258.0
+613.0,75.0,2024-07-13,32.0,OFTALMOLOGÍA,Diabetes,,80486.0
+418.0,258.0,16/01/2024,10.0,  Neurología  ,Control preventivo,Depresión,
+219.0,28.0,19/07/2023,16.0,ginecología,Fractura,Hipertensión,184742.0
+557.0,27.0,,39.0,oftalmología,Migraña,Ansiedad,299945.0
+63.0,99.0,26/02/2023,45.0,  Traumatología  ,Dermatitis,Hipertensión,481935.0
+350.0,154.0,15/11/2023,12.0,Pediatría,Dermatitis,Ansiedad,
+390.0,159.0,22/12/2023,14.0,,Gastritis,Ansiedad,462897.0

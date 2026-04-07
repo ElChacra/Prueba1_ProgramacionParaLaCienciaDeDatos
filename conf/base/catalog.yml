@@ -1,0 +1,176 @@
+# ============================================================
+# DATA CATALOG — Proyecto Salud Hospitalaria (COMPLETO)
+# ============================================================
+
+# ── CAPA 01: DATOS CRUDOS ────────────────────────────────────
+pacientes_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/pacientes.csv
+  load_args:
+    dtype: str
+    encoding: utf-8
+
+consultas_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/consultas.csv
+  load_args:
+    dtype: str
+    encoding: utf-8
+
+examenes_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/examenes.csv
+  load_args:
+    dtype: str
+    encoding: utf-8
+
+medicamentos_raw:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/medicamentos.csv
+  load_args:
+    dtype: str
+    encoding: utf-8
+
+# ── CAPA 02: DATOS LIMPIOS ───────────────────────────────────
+pacientes_cleaned:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/pacientes_cleaned.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+consultas_cleaned:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/consultas_cleaned.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+examenes_cleaned:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/examenes_cleaned.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+medicamentos_cleaned:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/medicamentos_cleaned.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+# ── CAPA 03: DATOS TRANSFORMADOS ─────────────────────────────
+dataset_integrado:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/dataset_integrado.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+dataset_con_features:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/dataset_con_features.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+dataset_normalizado:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/dataset_normalizado.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+dataset_encoded:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/dataset_encoded.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+dataset_final:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/dataset_final.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+# ── CAPA 08: REPORTES ────────────────────────────────────────
+reporte_diagnostico:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/reporte_diagnostico.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+comparacion_antes_despues:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/comparacion_antes_despues.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+reporte_validacion:
+  type: pandas.CSVDataset
+  filepath: data/08_reporting/reporte_validacion.csv
+  fs_args:
+    open_args_save:
+      encoding: utf-8
+  load_args:
+    encoding: utf-8
+  save_args:
+    index: false
+
+# ── DATASETS EN MEMORIA (intermedios del pipeline validation) ─
+resultado_esquema:
+  type: kedro_datasets.pickle.PickleDataset
+  filepath: data/08_reporting/resultado_esquema.pkl
+
+resultado_integridad:
+  type: kedro_datasets.pickle.PickleDataset
+  filepath: data/08_reporting/resultado_integridad.pkl

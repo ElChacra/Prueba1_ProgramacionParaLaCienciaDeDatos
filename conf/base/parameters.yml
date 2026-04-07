@@ -1,0 +1,42 @@
+# ============================================================
+# PARAMETERS — Parámetros configurables del pipeline
+# Cambiar valores aquí sin tocar el código fuente.
+# ============================================================
+
+cleaning:
+  # ── Limpieza general ───────────────────────────────────────
+  estrategia_nulos: "median"
+  umbral_outliers_z: 3.0
+  umbral_outliers_iqr: 1.5
+
+  # ── Columnas de fecha por tabla ────────────────────────────
+  columnas_fecha:
+    pacientes: ["fecha_nacimiento"]
+    consultas: ["fecha"]
+    examenes: ["fecha_examen"]
+
+  # ── Columnas categóricas a normalizar (strip + title) ──────
+  columnas_categoricas:
+    pacientes: ["genero", "prevision", "comuna"]
+    consultas: ["especialidad", "diagnostico_principal", "diagnostico_secundario"]
+    examenes: ["laboratorio"]
+    medicamentos: ["medicamento"]
+
+  # ── Columnas numéricas con símbolos a limpiar ──────────────
+  columnas_numericas:
+    consultas: ["costo"]
+    medicamentos: ["costo_unitario", "duracion_dias"]
+    examenes: ["resultado"]
+    pacientes: []
+
+  # ── Valores de imputación para columnas categóricas ────────
+  imputacion_categorica:
+    genero: "Desconocido"
+    prevision: "Desconocido"
+    especialidad: "Desconocido"
+    diagnostico_principal: "Sin diagnóstico"
+    diagnostico_secundario: "Sin diagnóstico secundario"
+    tipo_examen: "Desconocido"
+    laboratorio: "Desconocido"
+    medicamento: "Desconocido"
+    frecuencia: "Desconocido"

@@ -1,0 +1,516 @@
+id_prescripcion,id_consulta,medicamento,dosis,frecuencia,duracion_dias,costo_unitario
+1.0,756.0,Omeprazol,100mg,Cada 12 hrs,80.0,21751.0
+2.0,687.0,  Amoxicilina  ,50mg,Cada 24 hrs,50.0,42881.0
+3.0,508.0,Losartán,200mg,SOS,4.0,1903.0
+4.0,601.0,Paracetamol,20mg,Cada 24 hrs,8.0,24738.0
+5.0,20.0,Omeprazol,500mg,,36.0,47645.0
+6.0,326.0,SERTRALINA,100mg,Cada 8 hrs,10.0,13014.0
+7.0,356.0,Diclofenaco,100mg,Cada 12 hrs,30.0,13675.0
+8.0,433.0,Losartán,500mg,Cada 24 hrs,16.0,31691.0
+9.0,399.0,Diclofenaco,50mg,Cada 12 hrs,30.0,
+10.0,18.0,Sertralina,50mg,Cada 12 hrs,64.0,10338.0
+11.0,550.0,Diclofenaco,10mg,Cada 8 hrs,74.0,46122.0
+12.0,376.0,Amoxicilina,100mg,,11.0,33319.0
+13.0,601.0,Atorvastatina,50mg,Cada 24 hrs,34.0,49656.0
+14.0,340.0,Amoxicilina,200mg,Cada 24 hrs,,36955.0
+15.0,150.0,Omeprazol,10mg,SOS,55.0,~33556.0
+16.0,,losartán,10mg,Cada 12 hrs,83.0,40838.0
+17.0,233.0,  Omeprazol  ,10mg,,4.0,9169.0
+18.0,104.0,Atorvastatina,500mg,Cada 8 hrs,49.0,47326.0
+19.0,623.0,Sertralina,20mg,Cada 8 hrs,44.0,8697.0
+20.0,737.0,OMEPRAZOL,20mg,,31.0,1771.0
+21.0,221.0,Losartán,500mg,SOS,48.0,35044.0
+22.0,26.0,Clonazepam,10mg,SOS,26.0,9637.0
+23.0,64.0,Atorvastatina,200mg,Cada 8 hrs,70.0,38058.0
+24.0,254.0,Clonazepam,1g,Cada 8 hrs,,39854.0
+25.0,249.0,Amoxicilina,10mg,SOS,45.0,12217.0
+26.0,736.0,Metformina,50mg,SOS,8.0,4793.0
+27.0,131.0,Paracetamol,100mg,Cada 24 hrs,9.0,25291.0
+28.0,30.0,Sertralina,100mg,SOS,1.0,44566.0
+29.0,787.0,  Paracetamol  ,20mg,,5.0,42441.0
+30.0,10.0,Paracetamol,100mg,SOS,71.0,6296.0
+31.0,89.0,Atorvastatina,1g,Cada 6 hrs,82.0,48257.0
+32.0,430.0,SERTRALINA,500mg,SOS,54.0,13565.0
+33.0,147.0,Amoxicilina,500mg,Cada 8 hrs,24.0,17795.0
+34.0,,,1g,Cada 8 hrs,26.0,7878.0
+35.0,,Atorvastatina,20mg,Cada 6 hrs,10.0,19201.0
+36.0,124.0,Diclofenaco,20mg,Cada 12 hrs,61.0,31964.0
+37.0,619.0,Metformina,50mg,SOS,40.0,25551.0
+38.0,341.0,Paracetamol,500mg,SOS,44.0,~41463.0
+39.0,518.0,  Ibuprofeno  ,500mg,Cada 6 hrs,12.0,32244.0
+40.0,51.0,AMOXICILINA,10mg,Cada 24 hrs,22.0,13545.0
+41.0,398.0,OMEPRAZOL,200mg,Cada 24 hrs,27.0,28093.0
+42.0,314.0,Paracetamol,50mg,Cada 12 hrs,67.0,3677.0
+43.0,648.0,Sertralina,10mg,SOS,82.0,29249.0
+44.0,514.0,Ibuprofeno,100mg,SOS,69.0,19788.0
+45.0,502.0,METFORMINA,200mg,SOS,14.0,5371.0
+46.0,530.0,sertralina,100mg,Cada 8 hrs,25.0,15719.0
+47.0,761.0,Metformina,500mg,Cada 24 hrs,52.0,44955.0
+48.0,697.0,Sertralina,200mg,,,29509.0
+49.0,734.0,Omeprazol,500mg,,,45212.0
+50.0,740.0,Atorvastatina,20mg,Cada 8 hrs,38.0,20835.0
+51.0,419.0,SERTRALINA,10mg,Cada 24 hrs,20.0,48956.0
+52.0,194.0,Amoxicilina,500mg,SOS,,18321.0
+53.0,312.0,Metformina,200mg,Cada 12 hrs,,37962.0
+54.0,722.0,Diclofenaco,10mg,Cada 6 hrs,56.0,15617.0
+55.0,299.0,  Atorvastatina  ,200mg,Cada 24 hrs,30.0,5747.0
+56.0,329.0,  Clonazepam  ,,Cada 12 hrs,41.0,41736.0
+57.0,476.0,omeprazol,1g,Cada 24 hrs,84.0,38248.0
+58.0,584.0,Diclofenaco,500mg,Cada 24 hrs,71.0,41121.0
+59.0,117.0,Paracetamol,500mg,Cada 24 hrs,63.0,15335.0
+60.0,264.0,Sertralina,200mg,Cada 24 hrs,69.0,35331.0
+61.0,517.0,Omeprazol,100mg,SOS,,11386.0
+62.0,781.0,Paracetamol,20mg,Cada 8 hrs,79.0,1060.0
+63.0,519.0,losartán,500mg,Cada 24 hrs,89.0,43391.0
+64.0,21.0,Omeprazol,50mg,Cada 12 hrs,77.0,26415.0
+65.0,477.0,,20mg,Cada 12 hrs,44.0,49191.0
+66.0,549.0,PARACETAMOL,20mg,Cada 12 hrs,88.0,19559.0
+67.0,173.0,Diclofenaco,20mg,Cada 8 hrs,79.0,47865.0
+68.0,62.0,Metformina,500mg,Cada 8 hrs,88.0,30945.0
+69.0,206.0,,20mg,Cada 12 hrs,83.0,25854.0
+,613.0,Atorvastatina,20mg,SOS,57.0,15489.0
+71.0,631.0,Sertralina,10mg,Cada 8 hrs,24.0,41351.0
+72.0,179.0,Amoxicilina,500mg,Cada 8 hrs,19.0,41525.0
+73.0,644.0,Diclofenaco,20mg,SOS,17.0,21138.0
+74.0,342.0,Amoxicilina,100mg,Cada 24 hrs,69.0,36501.0
+75.0,440.0,Amoxicilina,50mg,Cada 8 hrs,61.0,22638.0
+76.0,75.0,Omeprazol,20mg,Cada 12 hrs,4.0,37113.0
+77.0,290.0,Omeprazol,200mg,Cada 12 hrs,22.0,49712.0
+78.0,557.0,Amoxicilina,500mg,SOS,74.0,13494.0 aprox
+79.0,144.0,Omeprazol,10mg,Cada 12 hrs,85.0,31886.0
+80.0,649.0,Clonazepam,50mg,Cada 6 hrs,89.0,19304.0
+81.0,208.0,Sertralina,1g,Cada 12 hrs,6.0,27644.0
+82.0,743.0,Atorvastatina,200mg,SOS,30.0,43770.0
+83.0,272.0,Atorvastatina,200mg,SOS,75.0,17705.0
+84.0,607.0,Sertralina,200mg,SOS,11.0,
+85.0,415.0,  Atorvastatina  ,50mg,Cada 6 hrs,48.0,40047.0
+86.0,397.0,Amoxicilina,500mg,Cada 8 hrs,46.0,27974.0
+87.0,384.0,,500mg,Cada 24 hrs,27.0,$22745.0
+88.0,261.0,SERTRALINA,20mg,Cada 12 hrs,19.0,9575.0
+89.0,639.0,PARACETAMOL,20mg,Cada 8 hrs,86.0,5096.0
+,167.0,,500mg,SOS,59.0,14297.0
+91.0,18.0,Metformina,100mg,Cada 8 hrs,,36086.0
+92.0,660.0,Metformina,,Cada 8 hrs,54.0,20883.0
+93.0,247.0,paracetamol,100mg,Cada 6 hrs,,28726.0
+94.0,642.0,Omeprazol,500mg,SOS,17.0,4561.0
+95.0,296.0,Omeprazol,200mg,SOS,,6601.0
+96.0,414.0,Losartán,1g,Cada 12 hrs,40.0,1060.0
+97.0,778.0,,200mg,Cada 12 hrs,87.0,33828.0
+98.0,320.0,Omeprazol,100mg,Cada 12 hrs,11.0,13590.0
+99.0,554.0,Paracetamol,20mg,Cada 12 hrs,14.0,48363.0
+100.0,715.0,METFORMINA,1g,Cada 8 hrs,13.0,15769.0
+101.0,693.0,ibuprofeno,1g,Cada 8 hrs,88.0,18499.0
+102.0,181.0,Atorvastatina,500mg,Cada 12 hrs,80.0,23740.0
+103.0,296.0,,10mg,Cada 12 hrs,28.0,~16297.0
+104.0,656.0,Clonazepam,50mg,Cada 12 hrs,44.0,
+105.0,61.0,,10mg,Cada 24 hrs,63.0,43872.0
+106.0,209.0,  Atorvastatina  ,1g,Cada 12 hrs,61.0,1046.0
+107.0,166.0,atorvastatina,10mg,Cada 24 hrs,17.0,32906.0
+108.0,300.0,,20mg,Cada 12 hrs,50.0,34461.0
+109.0,655.0,Omeprazol,1g,SOS,26.0,48091.0
+110.0,351.0,Metformina,200mg,Cada 6 hrs,7.0,18835.0
+111.0,61.0,Sertralina,20mg,,79.0,10166.0
+112.0,263.0,Sertralina,200mg,SOS,16.0,26269.0
+113.0,124.0,Losartán,20mg,Cada 6 hrs,85.0,22654.0
+114.0,238.0,Paracetamol,500mg,Cada 24 hrs,17.0,39691.0
+115.0,542.0,Omeprazol,100mg,Cada 8 hrs,35.0,45247.0
+116.0,767.0,Diclofenaco,20mg,Cada 24 hrs,,4792.0
+117.0,90.0,Paracetamol,50mg,Cada 24 hrs,84.0,42406.0
+118.0,139.0,Metformina,200mg,Cada 8 hrs,23.0,
+119.0,362.0,Metformina,20mg,Cada 6 hrs,69.0,
+120.0,,Amoxicilina,50mg,Cada 8 hrs,9.0,38333.0
+121.0,719.0,Metformina,,Cada 12 hrs,87.0,37233.0
+122.0,93.0,OMEPRAZOL,20mg,Cada 24 hrs,18.0,1237.0
+123.0,134.0,Metformina,100mg,Cada 12 hrs,75.0,46049.0
+124.0,204.0,  Paracetamol  ,,Cada 8 hrs,48.0,17900.0
+125.0,622.0,Atorvastatina,100mg,Cada 8 hrs,72.0,~2536.0
+126.0,38.0,Amoxicilina,20mg,Cada 6 hrs,66.0,
+127.0,457.0,  Atorvastatina  ,200mg,Cada 24 hrs,23.0,36776.0
+128.0,534.0,Metformina,200mg,,,22377.0
+,737.0,AMOXICILINA,10mg,Cada 8 hrs,10.0,38022.0
+130.0,438.0,OMEPRAZOL,10mg,SOS,38.0,25716.0
+131.0,680.0,PARACETAMOL,20mg,Cada 24 hrs,,15322.0
+132.0,,Omeprazol,10mg,Cada 12 hrs,68.0,10544.0
+133.0,622.0,Losartán,20mg,Cada 24 hrs,85.0,21345.0
+134.0,224.0,Losartán,20mg,Cada 6 hrs,43.0,2272.0
+135.0,168.0,Metformina,100mg,SOS,12.0,21416.0
+136.0,107.0,Clonazepam,50mg,SOS,53.0,3897.0
+137.0,380.0,Paracetamol,200mg,Cada 12 hrs,14.0,43912.0
+138.0,24.0,  Amoxicilina  ,500mg,Cada 12 hrs,52.0,28986.0
+139.0,,Losartán,1g,Cada 8 hrs,84.0,32479.0
+140.0,307.0,Ibuprofeno,,Cada 24 hrs,72.0,14799.0
+141.0,358.0,Clonazepam,10mg,Cada 6 hrs,61.0,11678.0
+142.0,370.0,Atorvastatina,20mg,Cada 8 hrs,41.0,35541.0
+143.0,723.0,Paracetamol,10mg,Cada 24 hrs,21.0,33742.0
+144.0,171.0,Clonazepam,50mg,Cada 12 hrs,48.0,6573.0
+145.0,581.0,Omeprazol,10mg,Cada 6 hrs,56.0,12313.0
+,222.0,,50mg,Cada 12 hrs,35.0,47356.0
+147.0,443.0,Paracetamol,500mg,Cada 12 hrs,44.0,15557.0
+148.0,153.0,  Omeprazol  ,20mg,SOS,39.0,1779.0
+149.0,376.0,,10mg,Cada 24 hrs,15.0,3657.0
+150.0,281.0,Diclofenaco,50mg,Cada 8 hrs,12.0,38887.0
+,713.0,omeprazol,10mg,SOS,8.0,37979.0
+152.0,219.0,Atorvastatina,50mg,Cada 24 hrs,67.0,19400.0
+153.0,616.0,omeprazol,100mg,Cada 24 hrs,1.0,8083.0
+154.0,486.0,  Sertralina  ,20mg,Cada 24 hrs,,25156.0
+155.0,510.0,Ibuprofeno,20mg,Cada 6 hrs,42.0,16928.0
+156.0,335.0,Clonazepam,200mg,SOS,31.0,19011.0
+157.0,,,50mg,Cada 8 hrs,74.0,13419.0
+158.0,410.0,  Clonazepam  ,,SOS,30.0,3611.0
+159.0,54.0,atorvastatina,,Cada 12 hrs,43.0,39662.0
+160.0,701.0,CLONAZEPAM,200mg,Cada 24 hrs,26.0,31102.0
+161.0,734.0,,500mg,Cada 12 hrs,12.0,41814.0
+162.0,75.0,Amoxicilina,200mg,SOS,59.0,25408.0
+163.0,349.0,  Ibuprofeno  ,10mg,Cada 8 hrs,69.0,49257.0
+164.0,684.0,,50mg,Cada 12 hrs,73.0,48145.0
+165.0,393.0,METFORMINA,10mg,Cada 12 hrs,11.0,13953.0
+166.0,554.0,PARACETAMOL,500mg,Cada 6 hrs,47.0,19655.0
+167.0,157.0,Amoxicilina,20mg,SOS,23.0,37759.0
+168.0,81.0,Omeprazol,500mg,Cada 12 hrs,81.0,38942.0
+169.0,208.0,Omeprazol,200mg,SOS,,45580.0
+170.0,86.0,Amoxicilina,500mg,Cada 8 hrs,77.0,32805.0
+171.0,744.0,Losartán,50mg,Cada 12 hrs,81.0,24018.0
+172.0,447.0,Atorvastatina,500mg,Cada 8 hrs,87.0,19194.0
+173.0,177.0,Omeprazol,10mg,Cada 12 hrs,39.0,21249.0
+174.0,511.0,IBUPROFENO,20mg,Cada 24 hrs,73.0,42595.0
+175.0,619.0,Clonazepam,50mg,Cada 6 hrs,82.0,49010.0
+,139.0,  Omeprazol  ,500mg,Cada 6 hrs,55.0,3070.0
+177.0,102.0,  Ibuprofeno  ,1g,Cada 6 hrs,18.0,29222.0
+178.0,473.0,  Atorvastatina  ,1g,Cada 8 hrs,42.0,26243.0 aprox
+179.0,542.0,Diclofenaco,20mg,SOS,26.0,19119.0
+180.0,,Diclofenaco,10mg,Cada 6 hrs,18.0,42653.0
+181.0,756.0,Losartán,200mg,Cada 12 hrs,85.0,~28999.0
+182.0,486.0,Paracetamol,200mg,Cada 12 hrs,41.0,15999.0
+183.0,314.0,Diclofenaco,20mg,Cada 24 hrs,42.0,22483.0
+184.0,697.0,Clonazepam,500mg,Cada 8 hrs,33.0,18162.0
+185.0,247.0,diclofenaco,50mg,Cada 12 hrs,43.0,21789.0
+186.0,630.0,  Sertralina  ,20mg,Cada 12 hrs,14.0,4028.0
+187.0,438.0,Metformina,200mg,Cada 24 hrs,55.0,6040.0
+188.0,73.0,Amoxicilina,1g,Cada 24 hrs,58.0,31373.0 aprox
+,69.0,Losartán,200mg,SOS,10.0,34361.0
+190.0,754.0,Amoxicilina,1g,SOS,28.0,32013.0
+191.0,152.0,DICLOFENACO,200mg,SOS,14.0,38272.0
+192.0,94.0,sertralina,10mg,,83.0,47205.0
+193.0,435.0,  Metformina  ,20mg,Cada 24 hrs,26.0,43101.0
+194.0,783.0,Sertralina,,Cada 8 hrs,74.0,21216.0
+195.0,431.0,PARACETAMOL,20mg,SOS,17.0,11268.0
+196.0,457.0,clonazepam,,Cada 6 hrs,,15937.0
+197.0,430.0,,500mg,,14.0,29593.0
+198.0,229.0,Amoxicilina,1g,Cada 8 hrs,26.0,42882.0
+199.0,30.0,Paracetamol,200mg,Cada 12 hrs,34.0,35235.0
+200.0,625.0,Amoxicilina,500mg,SOS,83.0,27379.0
+201.0,335.0,Ibuprofeno,1g,Cada 12 hrs,24.0,30293.0
+202.0,660.0,Atorvastatina,20mg,SOS,70.0,26649.0
+203.0,569.0,DICLOFENACO,1g,Cada 12 hrs,20.0,48596.0
+204.0,177.0,  Losartán  ,10mg,SOS,39.0,40897.0
+205.0,568.0,Atorvastatina,200mg,Cada 24 hrs,45.0,39173.0
+206.0,409.0,Amoxicilina,100mg,Cada 24 hrs,34.0,26108.0
+207.0,777.0,OMEPRAZOL,20mg,Cada 24 hrs,22.0,~16925.0
+208.0,237.0,Atorvastatina,100mg,Cada 24 hrs,71.0,1466.0
+209.0,278.0,Atorvastatina,500mg,Cada 24 hrs,33.0,2650.0
+210.0,,metformina,200mg,Cada 6 hrs,6.0,1997.0
+211.0,636.0,,20mg,Cada 12 hrs,,49034.0
+212.0,540.0,Amoxicilina,100mg,Cada 24 hrs,72.0,6167.0
+213.0,654.0,Losartán,200mg,Cada 6 hrs,23.0,7535.0
+214.0,158.0,,50mg,Cada 6 hrs,18.0,24465.0
+215.0,167.0,AMOXICILINA,,Cada 12 hrs,14.0,24329.0
+216.0,185.0,Atorvastatina,100mg,Cada 12 hrs,50.0,46039.0
+217.0,389.0,  Amoxicilina  ,1g,SOS,61.0,4140.0
+218.0,12.0,Clonazepam,50mg,SOS,36.0,47883.0
+219.0,169.0,Losartán,50mg,Cada 24 hrs,,
+220.0,426.0,IBUPROFENO,200mg,Cada 8 hrs,5.0,48523.0
+221.0,449.0,  Omeprazol  ,1g,SOS,53.0,27296.0
+222.0,494.0,Clonazepam,500mg,Cada 8 hrs,48.0,32775.0
+223.0,449.0,Diclofenaco,10mg,SOS,79.0,
+224.0,106.0,Diclofenaco,20mg,,11.0,30785.0
+225.0,766.0,Ibuprofeno,50mg,Cada 6 hrs,2.0,35686.0
+226.0,427.0,Losartán,500mg,Cada 6 hrs,87.0,1013.0
+227.0,98.0,Metformina,500mg,Cada 8 hrs,24.0,2194.0
+228.0,631.0,Clonazepam,200mg,Cada 24 hrs,82.0,49331.0
+229.0,226.0,Atorvastatina,50mg,SOS,68.0,23149.0
+230.0,447.0,Metformina,500mg,SOS,79.0,$46823.0
+231.0,664.0,,10mg,Cada 8 hrs,12.0,36630.0
+,476.0,Clonazepam,500mg,Cada 6 hrs,59.0,18962.0
+233.0,203.0,Losartán,10mg,Cada 24 hrs,67.0,7967.0
+234.0,675.0,Ibuprofeno,100mg,SOS,32.0,48919.0
+235.0,297.0,metformina,10mg,Cada 24 hrs,36.0,29433.0
+236.0,634.0,Atorvastatina,10mg,Cada 24 hrs,21.0,10022.0
+237.0,16.0,Losartán,50mg,Cada 12 hrs,70.0,34242.0
+238.0,,Paracetamol,100mg,Cada 24 hrs,66.0,5056.0
+239.0,336.0,Sertralina,10mg,Cada 12 hrs,9.0,43468.0
+,618.0,  Metformina  ,50mg,Cada 8 hrs,76.0,4962.0
+241.0,,diclofenaco,100mg,Cada 6 hrs,44.0,12192.0
+242.0,20.0,,500mg,Cada 12 hrs,59.0,5026.0
+243.0,440.0,Amoxicilina,100mg,Cada 24 hrs,24.0,5637.0
+244.0,244.0,Diclofenaco,10mg,Cada 6 hrs,63.0,26430.0 aprox
+245.0,244.0,Diclofenaco,100mg,Cada 24 hrs,,34506.0
+246.0,392.0,Metformina,1g,Cada 24 hrs,,39530.0
+247.0,724.0,LOSARTÁN,500mg,Cada 12 hrs,76.0,34905.0
+248.0,736.0,Clonazepam,20mg,Cada 8 hrs,,18493.0
+249.0,262.0,Clonazepam,100mg,Cada 24 hrs,2.0,28086.0
+250.0,220.0,Sertralina,100mg,Cada 12 hrs,28.0,46419.0
+251.0,8.0,Ibuprofeno,100mg,Cada 24 hrs,16.0,19685.0
+252.0,446.0,Metformina,1g,Cada 6 hrs,59.0,12994.0
+253.0,14.0,Sertralina,1g,Cada 8 hrs,1.0,26206.0
+254.0,387.0,  Sertralina  ,200mg,Cada 24 hrs,86.0,15218.0
+255.0,642.0,Atorvastatina,50mg,Cada 8 hrs,1.0,13460.0
+256.0,22.0,Losartán,200mg,Cada 8 hrs,31.0,39051.0
+257.0,225.0,  Amoxicilina  ,50mg,Cada 6 hrs,22.0,44596.0
+258.0,235.0,Sertralina,200mg,Cada 6 hrs,76.0,25365.0
+259.0,341.0,Sertralina,500mg,SOS,59.0,39099.0
+260.0,711.0,Diclofenaco,1g,Cada 8 hrs,87.0,9761.0
+,134.0,Metformina,500mg,Cada 24 hrs,28.0,27608.0
+262.0,178.0,Amoxicilina,50mg,Cada 6 hrs,76.0,31992.0
+263.0,556.0,Metformina,1g,Cada 24 hrs,,24788.0
+264.0,520.0,Losartán,1g,Cada 8 hrs,87.0,6286.0
+265.0,792.0,Sertralina,50mg,,1.0,36838.0
+266.0,539.0,IBUPROFENO,500mg,SOS,2.0,42034.0
+267.0,437.0,  Sertralina  ,1g,Cada 8 hrs,66.0,31944.0
+268.0,51.0,Diclofenaco,20mg,Cada 24 hrs,49.0,8873.0
+269.0,443.0,Omeprazol,100mg,SOS,89.0,4190.0
+270.0,581.0,Losartán,,Cada 8 hrs,19.0,15429.0
+271.0,281.0,  Amoxicilina  ,500mg,Cada 6 hrs,28.0,$2331.0
+272.0,44.0,Diclofenaco,500mg,Cada 8 hrs,70.0,42041.0
+273.0,687.0,  Metformina  ,1g,Cada 12 hrs,39.0,35301.0
+274.0,631.0,OMEPRAZOL,10mg,Cada 24 hrs,19.0,$28403.0
+275.0,365.0,Paracetamol,100mg,Cada 6 hrs,64.0,44537.0
+276.0,269.0,Paracetamol,,Cada 6 hrs,58.0,5950.0
+277.0,693.0,Diclofenaco,50mg,Cada 12 hrs,17.0,35866.0
+278.0,565.0,Amoxicilina,500mg,SOS,70.0,
+279.0,293.0,IBUPROFENO,1g,Cada 6 hrs,79.0,3516.0
+280.0,703.0,Paracetamol,50mg,SOS,86.0,7079.0
+281.0,194.0,SERTRALINA,10mg,SOS,41.0,47572.0
+282.0,371.0,  Paracetamol  ,20mg,SOS,5.0,22301.0
+283.0,552.0,DICLOFENACO,10mg,Cada 8 hrs,23.0,2925.0
+284.0,78.0,,1g,Cada 12 hrs,69.0,29390.0
+285.0,189.0,Metformina,500mg,Cada 24 hrs,10.0,10386.0
+286.0,607.0,Losartán,10mg,Cada 12 hrs,68.0,838.0
+287.0,390.0,Sertralina,100mg,Cada 6 hrs,12.0,38040.0
+288.0,,SERTRALINA,10mg,Cada 12 hrs,10.0,8166.0
+289.0,615.0,Sertralina,10mg,Cada 24 hrs,60.0,47153.0
+290.0,302.0,Amoxicilina,100mg,Cada 8 hrs,30.0,29844.0
+291.0,671.0,Sertralina,20mg,Cada 6 hrs,24.0,4806.0
+292.0,358.0,,1g,Cada 8 hrs,69.0,11282.0
+293.0,720.0,  Losartán  ,50mg,Cada 6 hrs,13.0,30737.0
+294.0,94.0,  Metformina  ,200mg,Cada 24 hrs,9.0,17237.0
+295.0,551.0,Omeprazol,1g,Cada 8 hrs,18.0,26841.0
+296.0,336.0,Metformina,500mg,,35.0,40076.0
+297.0,164.0,Metformina,1g,,88.0,39734.0
+298.0,341.0,METFORMINA,1g,Cada 12 hrs,4.0,35050.0
+299.0,567.0,  Clonazepam  ,20mg,Cada 6 hrs,,44360.0
+300.0,72.0,Diclofenaco,200mg,SOS,26.0,10368.0
+301.0,42.0,Diclofenaco,,SOS,44.0,9273.0
+302.0,411.0,Amoxicilina,200mg,Cada 8 hrs,42.0,40068.0
+303.0,644.0,Ibuprofeno,50mg,Cada 24 hrs,10.0,16384.0
+304.0,21.0,Diclofenaco,1g,Cada 12 hrs,73.0,25853.0
+305.0,1.0,Ibuprofeno,20mg,Cada 6 hrs,1.0,~37326.0
+306.0,678.0,SERTRALINA,500mg,Cada 8 hrs,54.0,$20099.0
+307.0,572.0,Metformina,200mg,Cada 24 hrs,16.0,6943.0
+,,  Metformina  ,100mg,SOS,46.0,34133.0
+309.0,603.0,Omeprazol,200mg,SOS,13.0,40949.0
+310.0,,CLONAZEPAM,100mg,Cada 6 hrs,64.0,
+311.0,719.0,ATORVASTATINA,1g,Cada 6 hrs,78.0,28346.0
+312.0,88.0,Metformina,500mg,Cada 6 hrs,,23736.0
+313.0,594.0,Metformina,20mg,Cada 8 hrs,55.0,13350.0
+314.0,17.0,Diclofenaco,200mg,Cada 6 hrs,63.0,8471.0
+315.0,329.0,Clonazepam,1g,Cada 8 hrs,18.0,9808.0
+316.0,210.0,,10mg,,61.0,36386.0
+317.0,383.0,Ibuprofeno,20mg,Cada 24 hrs,20.0,27042.0
+318.0,565.0,Atorvastatina,100mg,,,49067.0
+319.0,640.0,  Diclofenaco  ,50mg,Cada 8 hrs,64.0,
+320.0,146.0,paracetamol,20mg,Cada 24 hrs,76.0,47867.0
+321.0,453.0,Losartán,1g,Cada 6 hrs,64.0,
+322.0,393.0,ibuprofeno,200mg,SOS,13.0,$7728.0
+323.0,310.0,,20mg,Cada 8 hrs,68.0,7835.0
+324.0,492.0,Clonazepam,500mg,Cada 6 hrs,89.0,30624.0
+325.0,,Omeprazol,100mg,,70.0,41655.0
+326.0,430.0,Losartán,10mg,Cada 12 hrs,57.0,37512.0
+327.0,1.0,Amoxicilina,500mg,Cada 24 hrs,45.0,32954.0
+328.0,41.0,Losartán,500mg,Cada 8 hrs,86.0,9019.0
+329.0,585.0,  Ibuprofeno  ,500mg,Cada 12 hrs,38.0,5863.0
+330.0,672.0,Metformina,1g,Cada 12 hrs,54.0,512.0
+331.0,,Clonazepam,1g,Cada 6 hrs,36.0,5539.0
+332.0,333.0,Omeprazol,20mg,Cada 24 hrs,67.0,38435.0
+333.0,651.0,  Ibuprofeno  ,100mg,Cada 8 hrs,79.0,44815.0
+334.0,,Omeprazol,50mg,Cada 12 hrs,11.0,12397.0
+335.0,304.0,clonazepam,100mg,Cada 6 hrs,,39847.0
+336.0,555.0,Losartán,10mg,Cada 12 hrs,87.0,10343.0
+337.0,691.0,Paracetamol,20mg,Cada 24 hrs,17.0,12839.0
+338.0,701.0,Ibuprofeno,500mg,SOS,87.0,11596.0
+339.0,758.0,Metformina,20mg,Cada 8 hrs,85.0,3061.0
+340.0,154.0,Diclofenaco,100mg,SOS,33.0,10106.0
+341.0,616.0,atorvastatina,200mg,Cada 24 hrs,5.0,18990.0
+342.0,523.0,Sertralina,20mg,SOS,81.0,
+343.0,25.0,AMOXICILINA,100mg,Cada 24 hrs,,15819.0
+344.0,25.0,CLONAZEPAM,20mg,Cada 24 hrs,65.0,25979.0
+345.0,,Ibuprofeno,100mg,Cada 6 hrs,71.0,19211.0
+346.0,106.0,Losartán,500mg,SOS,67.0,48533.0
+347.0,753.0,Losartán,20mg,Cada 12 hrs,80.0,40464.0
+348.0,119.0,Omeprazol,10mg,Cada 24 hrs,80.0,46583.0
+349.0,108.0,  Diclofenaco  ,500mg,SOS,44.0,28093.0
+350.0,330.0,Omeprazol,1g,Cada 12 hrs,14.0,34078.0
+351.0,180.0,Amoxicilina,1g,Cada 8 hrs,57.0,8750.0
+352.0,131.0,Clonazepam,20mg,Cada 12 hrs,48.0,37763.0
+353.0,603.0,Metformina,20mg,SOS,17.0,12181.0
+354.0,753.0,Ibuprofeno,10mg,SOS,44.0,7719.0
+355.0,759.0,,100mg,Cada 12 hrs,4.0,2572.0
+356.0,168.0,Amoxicilina,100mg,Cada 12 hrs,81.0,~23875.0
+357.0,223.0,Sertralina,50mg,Cada 24 hrs,,14696.0
+358.0,469.0,Amoxicilina,500mg,,85.0,49343.0
+359.0,278.0,Metformina,10mg,Cada 24 hrs,81.0,12867.0
+,190.0,Losartán,20mg,Cada 24 hrs,75.0,43394.0
+361.0,531.0,Losartán,20mg,Cada 8 hrs,55.0,$16164.0
+362.0,,Ibuprofeno,20mg,SOS,30.0,37582.0
+363.0,755.0,Sertralina,20mg,Cada 24 hrs,18.0,33162.0
+364.0,621.0,Amoxicilina,200mg,Cada 8 hrs,84.0,28308.0
+365.0,190.0,Losartán,20mg,Cada 24 hrs,73.0,21133.0
+366.0,218.0,Omeprazol,20mg,Cada 24 hrs,44.0,33720.0
+367.0,299.0,Clonazepam,200mg,SOS,62.0,20660.0
+368.0,311.0,Losartán,50mg,Cada 12 hrs,31.0,27631.0
+369.0,236.0,Amoxicilina,100mg,Cada 12 hrs,16.0,29695.0
+370.0,168.0,Metformina,1g,SOS,77.0,13734.0
+371.0,780.0,Clonazepam,20mg,Cada 12 hrs,23.0,17317.0
+372.0,193.0,Paracetamol,100mg,Cada 6 hrs,14.0,~1393.0
+373.0,242.0,Metformina,20mg,Cada 12 hrs,2.0,42682.0
+374.0,162.0,Losartán,10mg,Cada 24 hrs,12.0,37921.0
+375.0,339.0,  Metformina  ,500mg,Cada 24 hrs,58.0,9585.0
+376.0,791.0,Atorvastatina,10mg,Cada 8 hrs,56.0,18421.0
+377.0,455.0,Atorvastatina,20mg,,24.0,
+378.0,135.0,Atorvastatina,50mg,Cada 8 hrs,37.0,17052.0
+379.0,193.0,Paracetamol,10mg,Cada 24 hrs,29.0,40013.0
+380.0,402.0,CLONAZEPAM,50mg,Cada 24 hrs,42.0,36408.0
+381.0,392.0,Atorvastatina,50mg,Cada 8 hrs,18.0,38474.0
+382.0,601.0,  Losartán  ,20mg,Cada 6 hrs,3.0,45254.0
+383.0,42.0,LOSARTÁN,50mg,Cada 12 hrs,77.0,29960.0
+384.0,93.0,Ibuprofeno,10mg,,13.0,30919.0
+385.0,215.0,  Omeprazol  ,200mg,Cada 6 hrs,29.0,36236.0
+386.0,349.0,Diclofenaco,500mg,Cada 6 hrs,66.0,34221.0
+387.0,,Amoxicilina,50mg,Cada 6 hrs,59.0,43556.0
+388.0,335.0,Paracetamol,100mg,Cada 12 hrs,48.0,38625.0
+389.0,399.0,Metformina,20mg,SOS,4.0,6463.0
+390.0,164.0,  Omeprazol  ,1g,,51.0,46454.0
+391.0,106.0,Metformina,50mg,Cada 6 hrs,5.0,34313.0
+392.0,232.0,METFORMINA,100mg,Cada 6 hrs,39.0,6794.0
+393.0,558.0,Diclofenaco,10mg,Cada 8 hrs,41.0,38713.0
+394.0,717.0,  Sertralina  ,50mg,Cada 8 hrs,5.0,18241.0
+395.0,533.0,Diclofenaco,1g,SOS,8.0,40396.0
+396.0,177.0,Paracetamol,100mg,Cada 24 hrs,56.0,47793.0
+397.0,,Sertralina,200mg,,25.0,13134.0
+398.0,,Atorvastatina,10mg,Cada 24 hrs,52.0,42942.0
+399.0,265.0,paracetamol,10mg,Cada 12 hrs,52.0,38791.0
+,788.0,Clonazepam,20mg,SOS,7.0,33724.0
+401.0,520.0,LOSARTÁN,10mg,Cada 12 hrs,61.0,19554.0
+402.0,270.0,Atorvastatina,1g,Cada 8 hrs,85.0,5938.0
+403.0,212.0,Amoxicilina,100mg,SOS,47.0,24453.0
+404.0,163.0,Sertralina,10mg,Cada 8 hrs,82.0,5730.0
+405.0,557.0,,200mg,Cada 6 hrs,66.0,25257.0
+406.0,745.0,Ibuprofeno,500mg,Cada 8 hrs,59.0,41105.0
+407.0,53.0,,500mg,Cada 6 hrs,5.0,49883.0
+408.0,233.0,Sertralina,50mg,Cada 24 hrs,44.0,10301.0
+409.0,438.0,Sertralina,500mg,Cada 6 hrs,42.0,10789.0
+410.0,683.0,Paracetamol,1g,Cada 24 hrs,61.0,40639.0
+411.0,518.0,Omeprazol,500mg,,63.0,23718.0
+412.0,44.0,Clonazepam,1g,Cada 6 hrs,50.0,45832.0
+413.0,603.0,  Clonazepam  ,1g,Cada 12 hrs,38.0,38565.0
+414.0,708.0,,50mg,,54.0,36953.0
+,516.0,Sertralina,500mg,Cada 8 hrs,44.0,5547.0
+416.0,633.0,,50mg,Cada 12 hrs,24.0,2276.0
+417.0,575.0,Losartán,10mg,Cada 24 hrs,63.0,16180.0
+418.0,92.0,Losartán,200mg,Cada 12 hrs,39.0,11256.0
+419.0,759.0,Metformina,100mg,Cada 8 hrs,12.0,35759.0
+420.0,731.0,Diclofenaco,500mg,SOS,63.0,22811.0
+421.0,438.0,Atorvastatina,10mg,Cada 24 hrs,9.0,
+422.0,337.0,PARACETAMOL,20mg,SOS,79.0,40780.0
+423.0,743.0,Clonazepam,100mg,Cada 24 hrs,87.0,24186.0
+424.0,294.0,Amoxicilina,100mg,Cada 8 hrs,22.0,27474.0
+425.0,700.0,Losartán,100mg,Cada 12 hrs,36.0,42195.0
+426.0,680.0,Atorvastatina,10mg,SOS,,21851.0
+427.0,264.0,Metformina,50mg,SOS,28.0,4615.0
+,105.0,Metformina,50mg,Cada 12 hrs,56.0,26324.0
+429.0,224.0,Paracetamol,100mg,Cada 8 hrs,29.0,
+430.0,419.0,,100mg,Cada 12 hrs,,
+431.0,115.0,Metformina,200mg,Cada 6 hrs,4.0,13273.0
+432.0,235.0,Ibuprofeno,200mg,Cada 6 hrs,,11573.0
+433.0,784.0,paracetamol,100mg,Cada 6 hrs,15.0,18803.0
+434.0,274.0,Diclofenaco,200mg,SOS,60.0,8728.0
+435.0,230.0,Amoxicilina,100mg,SOS,26.0,33468.0
+436.0,729.0,PARACETAMOL,200mg,Cada 8 hrs,23.0,30926.0
+437.0,34.0,Diclofenaco,100mg,,29.0,31804.0
+438.0,388.0,Sertralina,50mg,Cada 12 hrs,86.0,11627.0 aprox
+439.0,709.0,Sertralina,1g,Cada 24 hrs,57.0,12703.0
+440.0,,Sertralina,50mg,SOS,62.0,39476.0
+,462.0,  Atorvastatina  ,1g,Cada 12 hrs,59.0,34661.0
+442.0,449.0,,50mg,SOS,48.0,43821.0
+443.0,214.0,Ibuprofeno,20mg,Cada 8 hrs,82.0,20474.0
+,46.0,Clonazepam,50mg,Cada 12 hrs,35.0,27593.0
+445.0,405.0,  Atorvastatina  ,200mg,SOS,46.0,37069.0
+446.0,333.0,METFORMINA,1g,Cada 6 hrs,33.0,48721.0
+447.0,240.0,Losartán,10mg,Cada 6 hrs,71.0,
+448.0,254.0,Sertralina,,SOS,10.0,49959.0
+449.0,228.0,Metformina,10mg,Cada 24 hrs,88.0,44581.0
+450.0,733.0,Omeprazol,20mg,Cada 8 hrs,89.0,$32163.0
+451.0,166.0,Losartán,10mg,Cada 8 hrs,48.0,
+452.0,585.0,Ibuprofeno,200mg,SOS,44.0,
+453.0,737.0,Atorvastatina,10mg,Cada 8 hrs,70.0,12311.0
+454.0,511.0,IBUPROFENO,100mg,Cada 12 hrs,63.0,3330.0
+455.0,598.0,  Atorvastatina  ,50mg,Cada 8 hrs,49.0,35011.0
+456.0,593.0,Atorvastatina,200mg,Cada 6 hrs,72.0,37923.0
+457.0,727.0,Paracetamol,100mg,SOS,85.0,33142.0
+458.0,676.0,Diclofenaco,10mg,Cada 12 hrs,41.0,18576.0
+459.0,390.0,Diclofenaco,200mg,Cada 8 hrs,83.0,25795.0
+460.0,752.0,Amoxicilina,50mg,Cada 6 hrs,39.0,46780.0
+461.0,423.0,Amoxicilina,200mg,Cada 24 hrs,23.0,~36616.0
+,411.0,OMEPRAZOL,10mg,Cada 8 hrs,13.0,25482.0
+463.0,581.0,AMOXICILINA,200mg,Cada 6 hrs,53.0,29876.0
+464.0,649.0,  Clonazepam  ,20mg,,70.0,46420.0
+465.0,664.0,Metformina,500mg,Cada 6 hrs,57.0,19992.0
+466.0,447.0,  Omeprazol  ,10mg,Cada 6 hrs,76.0,
+467.0,403.0,Omeprazol,50mg,Cada 24 hrs,67.0,16628.0
+468.0,,Sertralina,1g,SOS,48.0,21052.0
+469.0,379.0,Diclofenaco,200mg,Cada 6 hrs,,14012.0
+470.0,670.0,Amoxicilina,20mg,SOS,62.0,26684.0
+471.0,186.0,Clonazepam,200mg,Cada 24 hrs,45.0,15590.0
+472.0,680.0,Atorvastatina,10mg,Cada 24 hrs,63.0,5607.0
+473.0,244.0,Omeprazol,20mg,Cada 12 hrs,8.0,~9809.0
+,631.0,Paracetamol,10mg,Cada 12 hrs,26.0,45949.0
+475.0,708.0,Losartán,500mg,Cada 6 hrs,38.0,31665.0
+476.0,503.0,Metformina,50mg,SOS,41.0,16058.0
+477.0,288.0,Ibuprofeno,20mg,Cada 24 hrs,2.0,18662.0
+478.0,369.0,paracetamol,20mg,Cada 8 hrs,7.0,24922.0
+479.0,65.0,Ibuprofeno,,Cada 12 hrs,25.0,33820.0
+480.0,162.0,Sertralina,,Cada 12 hrs,51.0,29318.0
+481.0,597.0,Diclofenaco,1g,Cada 8 hrs,50.0,46669.0
+482.0,571.0,Omeprazol,100mg,SOS,64.0,31475.0
+483.0,794.0,DICLOFENACO,20mg,SOS,12.0,45584.0
+484.0,,,200mg,SOS,53.0,769.0
+485.0,418.0,  Clonazepam  ,200mg,Cada 6 hrs,75.0,
+486.0,481.0,Sertralina,100mg,Cada 6 hrs,10.0,36212.0
+487.0,633.0,Losartán,500mg,Cada 8 hrs,61.0,9024.0
+488.0,,Diclofenaco,1g,Cada 24 hrs,55.0,13520.0
+489.0,767.0,Atorvastatina,100mg,Cada 8 hrs,68.0,27369.0
+490.0,736.0,Amoxicilina,200mg,Cada 24 hrs,42.0,6684.0
+491.0,567.0,Omeprazol,200mg,Cada 8 hrs,66.0,39376.0
+492.0,648.0,Amoxicilina,50mg,Cada 6 hrs,44.0,39663.0
+493.0,190.0,Diclofenaco,20mg,SOS,28.0,15397.0
+494.0,406.0,Amoxicilina,200mg,Cada 12 hrs,78.0,$3956.0
+495.0,765.0,Clonazepam,500mg,Cada 8 hrs,58.0,49448.0
+496.0,489.0,Omeprazol,200mg,Cada 8 hrs,2.0,12911.0
+497.0,312.0,Sertralina,20mg,Cada 12 hrs,55.0,3844.0
+498.0,596.0,Losartán,200mg,Cada 8 hrs,34.0,16833.0
+499.0,689.0,Losartán,100mg,SOS,20.0,48466.0
+500.0,94.0,SERTRALINA,10mg,Cada 12 hrs,47.0,39750.0
+110.0,351.0,Metformina,200mg,Cada 6 hrs,7.0,18835.0
+292.0,358.0,,1g,Cada 8 hrs,69.0,11282.0
+131.0,680.0,PARACETAMOL,20mg,Cada 24 hrs,,15322.0
+191.0,152.0,DICLOFENACO,200mg,SOS,14.0,38272.0
+299.0,567.0,  Clonazepam  ,20mg,Cada 6 hrs,,44360.0
+93.0,247.0,paracetamol,100mg,Cada 6 hrs,,28726.0
+289.0,615.0,Sertralina,10mg,Cada 24 hrs,60.0,47153.0
+206.0,409.0,Amoxicilina,100mg,Cada 24 hrs,34.0,26108.0
+358.0,469.0,Amoxicilina,500mg,,85.0,49343.0
+29.0,787.0,  Paracetamol  ,20mg,,5.0,42441.0
+407.0,53.0,,500mg,Cada 6 hrs,5.0,49883.0
+187.0,438.0,Metformina,200mg,Cada 24 hrs,55.0,6040.0
+337.0,691.0,Paracetamol,20mg,Cada 24 hrs,17.0,12839.0
+177.0,102.0,  Ibuprofeno  ,1g,Cada 6 hrs,18.0,29222.0
+439.0,709.0,Sertralina,1g,Cada 24 hrs,57.0,12703.0
